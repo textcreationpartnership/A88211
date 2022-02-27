@@ -1,0 +1,1832 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lawes funerall. Or, An epistle written by Lieutenant Col. John Lilburn, prisoner in the Tower of London, unto a friend of his, giving him a large relation of his defence, made before the judges of the Kings bench, the 8. of May 1648. against both the illegal commitments of him by the House of Lords, and the House of Commons, ...</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 111 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88211</idno>
+            <idno type="STC">Wing L2130</idno>
+            <idno type="STC">Thomason E442_13</idno>
+            <idno type="STC">ESTC R210612</idno>
+            <idno type="EEBO-CITATION">99869394</idno>
+            <idno type="PROQUEST">99869394</idno>
+            <idno type="VID">121769</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121769)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E442[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lawes funerall. Or, An epistle written by Lieutenant Col. John Lilburn, prisoner in the Tower of London, unto a friend of his, giving him a large relation of his defence, made before the judges of the Kings bench, the 8. of May 1648. against both the illegal commitments of him by the House of Lords, and the House of Commons, ...</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>29, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: John Lilburne. Tower the 15. of May. 1648.</note>
+                  <note>The final page is unnumbered; the 2 preceding pages are misnumbered 31 and 23.</note>
+                  <note>In this edition, the initial "A" of the epistle is surrounded by a border made of type ornaments.</note>
+                  <note>Imperfect: staining.</note>
+                  <note>Annotation on Thomason copy: "15 May 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Habeas corpus --  England --  Early works to 1800.</term>
+               <term>False imprisonment --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:121769:1" rendition="simple:additions"/>
+            <head>The LAWES Funerall. OR, An Epiſtle written by Lieutenant Col.
+JOHN LILBURN, Priſoner in the Tower of <hi>London,</hi> unto a friend of his,
+giving him a large rela<g ref="char:EOLhyphen"/>tion of his defence, made before the Judges of the
+Kings Bench, the 8. of <hi>May</hi> 1648. againſt both the illegall
+commitments of him by the Houſe of Lords, and the Houſe of Commons, and how
+that the Judges in open Court, were ne<g ref="char:EOLhyphen"/>ceſſitated to confeſſe, there is
+by neither of the commitments any crime in Law laid unto his Charge, yet though
+he was impriſoned for nothing, being committed by a ſuperiour Court the
+Lords, and that upon a Sentence, they could not releaſe him, but remanded him
+back again Priſoner unto the Tower, which is a full Declaration, there is no
+Law left in <hi>England</hi> now, but that the people thereof muſt be
+governed by the luſt, will and pleaſure of the Houſe of Lords, &amp;c.
+and though they deale never ſo unjuſtly with them, to the cauſe<g ref="char:EOLhyphen"/>leſſe
+deſtruction of their Lives, Eſtates, and Families, yet the Judges of
+<hi>Eng<g ref="char:EOLhyphen"/>land</hi> (being in deed and in truth meere Ciphers) cannot remedy it,
+becauſe it is done by their ſuperiours, the Houſe of Lords; wherefore the
+ſaid <hi>Iohn Lil<g ref="char:EOLhyphen"/>burne</hi> doth declare his ſorrowfulneſſe in his
+great miſtake, in zealouſly ſtirring up the people of <hi>England</hi> to
+ſtand up to maintain their Lawes, ſeeing they have none in being, but the
+will of the Lords, and therefore according to his promiſe, to the Judges in
+open Court; he provokes all the Commons of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> out of all the
+Counties thereof, to haſten up to <hi>Weſtminſter</hi> to the Lords
+houſe, and there ſuffer the Lords (who now have conquered and ſubdued all
+their Lawes) to bore them through their eares as their vaſſalls and
+ſlaves, if they can beare it with patience.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Proverbs 28.1.</hi>
+                  </bibl> 
+                  <p>The wicked flye when none purſueth; but the Righteous are as
+bold as a Lyon.</p>
+               </q>
+            </epigraph>
+            <opener>
+               <salute>Deare Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>T your earneſt deſire, I cannot chuſe but give you, and
+the world, as perfect account as I can, of all that paſſed before the
+Judges of the <hi>Kings</hi> Bench, in reference to my ſelfe, upon
+<hi>Munday</hi> laſt, be<g ref="char:EOLhyphen"/>ing the 8. of this preſent <hi>May.</hi> And in
+the firſt place, I muſt in<g ref="char:EOLhyphen"/>treate you to take notice, of the reaſon or
+cauſe of my being there that day, which was upon my own earneſt deſire;
+for looking upon my ſelfe unavoidably in the roade way of deſtruction, in
+the continuance of my cauſeleſſe and arbitrary impriſonment, and
+finding the generality of the Houſe of Com<g ref="char:EOLhyphen"/>mons, <pb n="2" facs="tcp:121769:2"/>(who
+ſhould be the true and faithfull conſervators of the Lawes and Li<g ref="char:EOLhyphen"/>berties
+of <hi>England</hi>) deafe unto Juſtice, and their eares and hearts ſealed
+up a<g ref="char:EOLhyphen"/>gainſt it, ſo that of them, I for my part may almoſt complain, as
+the Pſalmiſt doth, <hi>they are all gone aſide, they are altogether
+become filthy: there is none that do good, no not one; for they eat up the
+people as they eat bread, and call not upon the Lord.</hi> Pſal. 14.3.4.</p>
+            <p>I ſay, at the ſerious conſideration hereof, muſing with my
+ſelfe what to do for my own preſervation, and the preſervation of my wife
+and little Children (which nature and the Law of God teacheth me to endeavour
+with all my might) who are all in the eye of reaſon unavoidably deſtroyed
+in my continu<g ref="char:EOLhyphen"/>ance in priſon, and I was ſtaved of in my own Conſcience,
+from the uſe of extra<g ref="char:EOLhyphen"/>ordinary meanes for my deliverance, till I had
+attempted what the Judges of the law would do for me, whom I lookt upon as my
+laſt legall refuge, and ſuppoſed they might happily do me ſome good;
+but I durſt not feede my thoughts with a<g ref="char:EOLhyphen"/>ny confident hopes of Juſtice from
+them, being they are created, and made Judges by the power and authority of my
+potent adverſaries, and therefore muſt needes ſerve their ends, or elſe
+be thrown out of their places, yet I was reſolved to put all the ſtrength I
+had to the work; and for that end, I, the 4. of <hi>April</hi> laſt writ an
+effectuall letter to the Speaker of the Houſe, &amp; in print intitulled it,
+<hi>The Priſoners Plea for a Habeas Corpus,</hi> &amp; therein print my
+Petitioned to the Judges of the Kings Bench, for my <hi>Habeas Corpus,</hi> and
+becauſe Councell the laſt Teime had failed me, and durſt not move for me;
+I was neceſſitated to write an<g ref="char:EOLhyphen"/>other Epiſtle the 7. of <hi>April</hi>
+1648. to all the morall honeſt <hi>Engliſhmen,</hi> in and a<g ref="char:EOLhyphen"/>bout the City
+of <hi>London,</hi> whether Epiſcopall, Presbyterian, or thoſe commonly
+called Sectaries, and in print intitulled it, <hi>The oppreſſed mans
+importunate and mournfull cryes, to be brought to the Barre of Juſtice,</hi>
+in which I earneſtly intreat them the firſt day of the Tearme, being
+<hi>April</hi> the 19. 1648. to deliver my Peti<g ref="char:EOLhyphen"/>tion for me, and get me a
+<hi>Habeas Corpus,</hi> which now I thank them, divers of them did; and
+procured me a <hi>Habeas Corpus,</hi> which the Lieutenant of the Tower
+withſtood, and did not carry up my body; whereupon I by a new Petition
+com<g ref="char:EOLhyphen"/>plained of him to the Judges, but they in my apprehenſion grew ſomwhat
+deafe; upon which I was neceſſitated the very preſent to write a rufling
+letter to Judge <hi>Roll,</hi> which in print is intituled,</p>
+            <p>Vpon which letter I had an <hi>Alias</hi> granted me, with a
+penalty of 40 <abbr>l.</abbr> which the Lieutenant obeyed, and accordingly upon
+<hi>Munday</hi> laſt, ſent my body to <hi>Weſtminſter,</hi> where I
+arrived betwixt 8. and 9. a Clock, and found both the Judges and my Grandee
+Adverſary, Soliciter, Sr. <hi>Iohn,</hi> &amp;c. very hard at whiſ<g ref="char:EOLhyphen"/>pering
+diſcourſe, neare the Chancery Court, and upon the Judges going to the
+Bench, I ſtept to the Barre, and preſently the Lieutenant of the Tower was
+cal<g ref="char:EOLhyphen"/>led to make a returne of his <hi>Habeas Corpus,</hi> whereupon his Servant
+Mr. <hi>Comport</hi> and my Keeper, made anſwer, here was the Priſoner Mr.
+<hi>Lilburne</hi> at the Barre, <pb n="3" facs="tcp:121769:2"/>upon which the Judge asked
+him for the returne, and he told him he was but a Servant, and at the Command
+of the Lieutenant, had brought up the body of Mr. <hi>Lilburne,</hi> which was
+all the returne he had, and immediately the Lieutenant himſelfe, as I
+conceive, gave in the returne, and then Mr. <hi>Iuſtice Bacon</hi> demanded
+of me, where my Councell was, and being ſtanding up upon a high place before
+the Bench, with a loud voice I anſwered him, I had none, neither would I have
+any, but deſired to caſt the weight of my Cauſe upon my own abilities,
+which were ſufficiently able to inable me to plead my cauſe my ſelfe
+before them; and therefore Sir, ſaid I, (with a ſhrill voice) I crave and
+demand at your hands, as my naturall and undoubted right, the ſame benefit
+and priviledge that <hi>Paul</hi> al<g ref="char:EOLhyphen"/>wayes injoyed from the hands of the Pagan
+and Heathen Roman Judges, who alwayes gave him free liberty as his Right to
+plead his Cauſe before them, and to ſpeake in the beſt manner he could
+for himſelfe; but Sir, if you will not follow that juſt example of the
+Pagan Roman Judges, Then in the ſecond place, I crave the ſame priviledge
+from you, that I injoyed from the hands of the Caviliers at <hi>Oxford,</hi>
+who when I ſtood before Judge <hi>Heath</hi> for my life, (being arrained in
+Irons for High-Treaſon, in levying Warre by the Parliaments Command againſt
+the <hi>King,</hi>) he nobly told me, he would give me the utmoſt priviledge
+that the Law of <hi>England</hi> would afford me, and further declared unto me,
+it was my right by Law to plead for my ſelfe, and ſay whatſoever I could
+for my ſelfe, which he freely without any interruption gave me leave to do;
+and Sir, I hope you will not be more unjuſt unto me, then the Pagan Roman
+Judges were to <hi>Paul,</hi> or the Caviliers to my ſelfe at
+<hi>Oxford,</hi> in denying me my priviledge to ſpeake and plead for my
+ſelfe.</p>
+            <p>Whereupon Mr. Juſtice <hi>Bacon</hi> replied, and ſaid, Sir,
+it is a favour that you are permitted to plead by councell. Sir, ſaid I, by
+your favour, I doe not judge it ſo, and beſides I deſire Mr. Iuſtice
+<hi>Bacon,</hi> with all reſpect unto you, and deſire to let you know: I do
+not com here to beg boones or courtiſies at your hands, but I come here to
+claime my right, &amp; do with confidence tell you Sir; that it is not only my
+undoubted naturall right, by the light and Law of nature; yea and by the
+ancient common Law of <hi>England</hi> to plead my owne cauſe my ſelfe, if
+I pleaſe, but it is alſo the naturall and undoubted right of every
+individuall Engliſhmen, yea and of every man, upon the face of the Earth, in
+what Countrey ſoever; and therefore, Sir, I demand from you, liberty to
+ſpecke frealy for my ſelfe, not only by the Law of nature, but alſo by
+the ancient Common law of <hi>England,</hi> freely telling you that I Judge my
+cauſe of that conſequence to my ſelfe, and all the Commons of
+<hi>England,</hi> that I will truſt never a Lawyer in the Kingdome to plead
+for me, and therefore againe demand to as my right, leave to plead my ſelfe,
+the which if you will not grant me I have done, and haue no more to ſay to
+you, whereupon the Iudges commanded the lawyers to make me roome and called me
+cloſſe to the Barr, where I did my reſpect unto them, and 
+<pb n="4" facs="tcp:121769:3"/>they cauſed the returne to be read, which conſiſted of
+my commitment from the Lords the 11 of <hi>Iuly</hi> 1646, &amp; my commitment
+from the Commons. 19 <hi>Ian:</hi> 1647 and a late order of the commons to
+command the Lievetenant of the Tower, up<g ref="char:EOLhyphen"/>on removeall of his priſoners not to
+remove the 4 Aldermen, nor Sir <hi>Iohn May<g ref="char:EOLhyphen"/>nard,</hi> nor my ſelfe; which
+returne in the concluſion hereof I ſhall inſert, and then as I conceive
+becauſe ſome of the returne was latten, <hi>Iudge Bacon</hi> aſkt me if I
+underſtood it, and I ſaid, yes, for I had cauſe enough given me ſo to
+doe; where<g ref="char:EOLhyphen"/>upon he begun to tell me I might eaſily perceive I was Committed
+by the Lords upon a Centence, and begun to amplifie their power, as a
+ſuperior court, whoſe actions were not to be queſtioned or controled by
+the Judges of the Kings Bench, becauſe they were inferior to them.</p>
+            <p>Unto which I replied. Sir, I deſire the returne may be ordered
+to be entered upon record, and this I preſſed diverſe times, and
+deſired that if the Lieute<g ref="char:EOLhyphen"/>nant had any thing to add to the returne, he might
+now ſpeak, or elſe forthwith it might be made a record, and he thereby
+debarred of making additions to it which was accordingly done, and then I
+preſſed to be hard, and ſaid, Mr. Juſtice <hi>Bacon,</hi> I deſire to
+keep you cloſe to my buſineſſe which is thus, I am in priſon and
+having no crime laid unto my charge by thoſe that do commit me, (as clearly
+appears unto your Honor by the returne, for generalls, you know better then I
+doe, are no charge nor crimes in Law,) and therefore according to the law I
+crave leave to make my exceptions againſt the return, &amp; when I have done,
+I ſhall willingly ſubmit my diſcourſe, my cauſe, and my perſon to
+your Judge<g ref="char:EOLhyphen"/>ments and conſciences; but I pray, heare what <hi>I</hi> can ſay
+for my ſelfe and my liber<g ref="char:EOLhyphen"/>ty, or if you will not command me ſilence,
+<hi>I</hi> will obey you; And then Mr. Juſtice <hi>Roll</hi> ſpoke like
+wiſe to the Lords power, and would alſo have ſtaved me of from going on,
+but <hi>I</hi> preſt ſtill to be heard what <hi>I</hi> could ſay
+againſt the returne, and he preſt me to keepe cloſe unto it, and not be
+extravigant in medling with impertinences, but <hi>I</hi> told him, <hi>I</hi>
+did not know what he would judge impertinences, &amp; therefore preſt hard to
+be heard, telling him, if <hi>I</hi> ſpoke that which by Law <hi>I</hi> could
+not Juſtifie, they might the eaſier tript up my heales, but I aſſured
+him, <hi>I</hi> was an honorer of Magiſtracy, as being the chiefe meanes God
+had appointed to keepe the world in order, and therefore <hi>I</hi> was
+reſolved to ſpeak with all honour &amp; reſpect both unto their office
+and perſons; ſo <hi>I</hi> had leave granted to go on, and having my plea
+in a readineſſe, writ, <hi>I</hi> put on my ſpectacles &amp; held it
+before me as the Lawyers do there Briefes, and begun, and ſaid as was
+contained in my paper which <hi>I</hi> ſhall give you, as <hi>I</hi> had pend
+it before <hi>I</hi> came to the barre, though <hi>I</hi> confes I had many
+bickering interruptions by both the Iudges, which in the beſt manner my
+memory will ſerve me, <hi>I</hi> ſhall note in the Magent, as <hi>I</hi>
+goe on with my diſcourſe, which thus followeth.</p>
+            <p>Mr. Juſtice <hi>Bacon,</hi> I doe ingeniouſly confeſſe,
+that I judge Univerſall ſafety to be above all Law, <hi>and that it is the
+ouldeſt Law of any in the Kingdom,</hi> and there<g ref="char:EOLhyphen"/>fore <pb n="5" facs="tcp:121769:3"/>I
+ſhall not diſpute, in the leaſt, the Parliaments irregular actions, that
+they were neceſſitated too, for common preſervation in the height of the
+Warres, but the Warres being ended, as they themſelves declare they are, (in
+their late Declaration againſt the <hi>Scotch</hi> Commiſſioners) and
+thereby the affaires of the Kingdome reduced into a more peaceable and hopefull
+condition then hereto<g ref="char:EOLhyphen"/>fore; wherefore I may now groundedly from the full
+ſtreame of all their Decla<g ref="char:EOLhyphen"/>rations, and promiſes; expect, challenge, and
+looke for the abſolute benefit of the Law, and the common juſtice of
+<hi>England,</hi> in the ordinary courts of Juſtice thereof; which they have
+declared, and promiſed they will not now enterrupt, (See their Declaration of
+the 17. of <hi>April,</hi> 1646. 2 <hi>Part. Book Declam. pag.</hi> 879 and
+their Ordinance, of none addreſſes to the King, in <hi>Ianuary</hi> laſt,
+where they promiſe the people, though they lay the King aſide, yet they
+will notwithſtan<g ref="char:EOLhyphen"/>ding governe them by the Law, and not to interrupt the
+ordinary courſe of Ju<g ref="char:EOLhyphen"/>ſtice, in the ordinary courts thereof; And therefore
+Mr. Juſtice <hi>Bacon,</hi> I am not a little glad that I ſtand before you
+at this Barre of Juſtice, which is boun<g ref="char:EOLhyphen"/>ded by the Law (where I never was
+before) for ſeeing that the great Judge of all the world, <hi>Stiles
+himſelfe to be a God of judgement, Eſa.</hi> 30.18. and fur<g ref="char:EOLhyphen"/>ther ſaith of
+himſelfe, <hi>That I the Lord love judgement and hate robbery for burnt
+offerings. Eſai.</hi> 61.8. and therefore layes his command upon <hi>Judges,
+thoſe gods upon earth, Pſal.</hi> 82.6. That they ſhall defend the
+<hi>Poore and Father<g ref="char:EOLhyphen"/>leſſe, and doe juſtice to the afflicted and needy,
+and deliver them out of the hands of thoſe that are to ſtrong and mighty
+for thim; and that they ſhall judge righteouſly betwixt a man and his
+brother, &amp; his neighbour, in juſtifying of the righ<g ref="char:EOLhyphen"/>teous, and condemning
+of the wicked, without wreſting judgement, or reſpecting perſons, but
+that with judgement they ſhall beare the ſmall as well as the great; and
+above all, that the Judges ſhall not be afraid of the face of man;</hi> for
+ſaith he, <hi>ye Judge not for man, but for the Lord, who is with yon in
+judgement; and therefore</hi> (ſaith he) <hi>take heed and dee it, for there
+is no ini<g ref="char:EOLhyphen"/>quitie with the Lord, nor reſpect of perſons, nor
+taking</hi>
+               <note n="(a)" place="margin">Exod. 18 21. &amp; 23.2.6.8. Deut.
+1.16.17. &amp; ch. 16.19. &amp; 25.1. &amp; 2 Chro. 19.6.7.</note> 
+               <hi>of
+gifts.</hi>
+            </p>
+            <p>And as God is thus delighted in doing Juſtice, and Judgement,
+ſo on the contrary ſide, <hi>he hath declared, he aſmuch abhorres thoſe
+that turne Judgement into wormwoode and ganle, and leaves of
+righteouſneſſe in the earth, and commits mighty ſinnes in afflicting
+the juſt, in taking of bribes, and turning aſide the poore in the gate,
+from their right.</hi>
+               <note n="(b)" place="margin">Eſa. 1.23.24. &amp; Jer.
+5.28.29. &amp; 22.16.17.18. &amp; Amos 5.12. &amp; 6 12, 14. Mic. 3.9.11. &amp;
+Zek. 8.16, 17.</note>
+            </p>
+            <p>And that, Sir, which adds unto my gladneſſe is this, that now
+<hi>I</hi> ſtand not before Arbitrary Judges, which judge themſelves
+bounded by no law, or rules, either of God or man, but are left looſe unto
+the reines of their depraved, cor<g ref="char:EOLhyphen"/>rupt <pb n="6" facs="tcp:121769:4"/>luſts and wills; by
+vertue of which, I have not a little beene toſſed and tumbled from Gacle to
+Gaole, and not for ſome few houres, dayes, weekes or Moneths; <hi>but for
+ſome yeares:</hi> without having any legall crime laid to my charge, or ever
+been brought out unto any Legall triall; But Mr. <hi>Bacon,</hi> here
+<hi>I</hi> ſtand before you, who are ſworne, and proper Judges of the Law,
+<hi>Yee of the Law of England, with that learned Lawyer, Sir</hi> Edward Coke,
+<hi>often ſtiles a Law of righteouſneſſe and mercy,</hi> eſpe<g ref="char:EOLhyphen"/>cially,
+to Priſoners in my caſe,<note n="(c)" place="margin">1 Part. inſti. Sect.
+438. fo. 260. &amp; 2 Part. inſtit. ſo. 42 43.46.55.56.115.186.189 190.526.
+&amp; 4. Part. in<g ref="char:EOLhyphen"/>ſtit. ſo. 168.</note> who have been almoſt this two
+yeres im<g ref="char:EOLhyphen"/>priſoned, Firſt, <hi>By the Houſe of Lords;</hi> and then
+Secondly, <hi>By the Houſe of Commons,</hi> for nothing, as clearely
+ap<g ref="char:EOLhyphen"/>peares unto you by my Warrants of Commitments, which onely charge me with
+generals, and <hi>generalls are no charge, nor crimes in</hi>
+               <note n="(d)" place="margin">2 Part inſtit. ſo. 52.53.315.318.591.615.616. and 1 Hart
+<hi>Book declar.</hi> pag. 38. 77. 201. 845. <hi>and the Votes up<g ref="char:EOLhyphen"/>on the
+impeachment of the</hi> 11. <hi>Members, and the Petition of right,</hi> 3 C.
+R. <hi>and the Act that aboliſhed the Star-Chamber,</hi> 17. C. R.
+<hi>Printed in my Booke, called</hi> The Peoples Prerogative, <hi>Pag.</hi> 22.
+23. 24. 25. 26.</note> 
+               <hi>Law</hi> but if they were (as they are not) <hi>Yet
+thoſe</hi> (<hi>viz.</hi> the Lords and Com<g ref="char:EOLhyphen"/>mons) <hi>that made them, were
+never betruſted by the Law, to be the execu<g ref="char:EOLhyphen"/>tors of the</hi>
+               <note n="(e)" place="bottom">
+                  <hi>See the</hi> 14. <hi>and</hi> 29. <hi>Chapters of Magna
+Charta, and the expoſition upon them.</hi> 2 Part. inſtit. fol. 29.46.
+&amp;c. <hi>and the Petition of Right, and the Act that aboliſhed the
+Star-Chamber, and</hi> Rot. Parl. 5. R. 2. num. 45. &amp; Rot. Parl. 1. H. 4:
+Mumb. 14. numb. 79. &amp; 5. H. 4. chap. 6. &amp; 11. H. 6. chap. 11. &amp; 23.
+H. 6. chap. 11. &amp; 15. &amp; 4. H. 8. chap. 8. &amp; 1 &amp; 2 <hi>P. &amp;
+M.</hi> chap. 10. &amp; 4 Part. inſtit. fol. 25. and 1. Part Booke Decl. pag.
+48. 278.</note> 
+               <hi>Law.</hi>
+            </p>
+            <p>And therefore, Mr. Juſtice <hi>Bacon,</hi> with all honourable
+and due reſpects upon your Office and perſons, I deſire with aſmuch
+brevity as I can, to make my defence againſt both the Warrants of my
+commitments, and I ſhall crave leave to obſerve this Method.</p>
+            <p>Firſt, although I grant that the Houſe of Commons and the
+Houſe of Lords, have by the Law and Cuſtome of <hi>England,</hi> their
+proportionable power and in<g ref="char:EOLhyphen"/>tereſt in the making and repealing of Lawes:
+<hi>yet I do averre that neither devi<g ref="char:EOLhyphen"/>ded nor conjoyned, they are not in the
+leaſt betruſted to execute the Law;</hi> but your honours, and the reſt
+of the ſworne Judges, Juſtices of the Peace, and the Conſtables, &amp;c.
+<hi>are by Law betruſted to be the ſole and only executors of it.</hi>
+            </p>
+            <p>And that no Commoner of <hi>England, is to be reſtrained of his
+liberty, by Pe<g ref="char:EOLhyphen"/>tition <pb n="7" facs="tcp:121769:4"/>or ſuggeſtion to the King, or to
+his Councell, unleſſe it be by indictement,</hi>
+               <note n="(f)" place="margin">
+                  <hi>5.</hi> Ed. <hi>3.</hi> ch. <hi>9. &amp; 25.</hi> E.
+<hi>3.</hi> ch. <hi>4. &amp; 37.</hi> Ed. <hi>3</hi> ch. <hi>18. &amp; 38.</hi>
+E. <hi>3.</hi> ch. <hi>9. &amp; 42.</hi> Ed. <hi>3.</hi> ch. <hi>3. &amp;
+11.</hi> R. <hi>2.</hi> ch. <hi>6. &amp; 2.</hi> part inſtit. fo.
+<hi>46.</hi> and Petition of Right, and the Act that aboliſhed the
+Starre-Chamber.</note> 
+               <hi>or preſentment of good and lawfull men, where
+ſuch deedes be done, and no Commoner of</hi> England <hi>is to be paſt
+upon, to loſe either life, limbe, liberty, or eſtate; but by legall Tryall
+by a Grand Iury, and Petty Iury of his peers or equalls,</hi> which Sir
+<hi>Edward Cooke</hi> calles the ancient and undoubted Birth<g ref="char:EOLhyphen"/>right of an
+<hi>Engliſhman,</hi> 4 part inſti. fol. 41. <hi>before a ſworne Iudge of
+the Law in the ordinary Courts of Juſtice, the proofes to be in caſes of
+Treaſon, &amp;c. by two ſufficient witneſſes at leaſt, plaine and
+upon their Oathes,</hi>
+               <note n="(g)" place="margin">See the 14. and 29. Chap<g ref="char:EOLhyphen"/>ter
+of <hi>Magna Charta,</hi> and 2. part inſtit. fo. 29.46.50. and the Pe<g ref="char:EOLhyphen"/>tition
+of Right, and the Act that aboliſhed the Starre-Chamber, and the caſe of
+the Corporation of <hi>Cambridge,</hi> Rot. Parl. 5. R. 2. Num. 45. and the
+notable Plea of <hi>A. B.</hi> a Citizen of <hi>London,</hi> pag. 24. and 5.
+part. inſti. fo. 25. and 1. <hi>Ed.</hi> 6. ch. 12. and 5. and 6. <hi>E.</hi>
+6. ch. 11. and 13. <hi>Eliz.</hi> ch. 1.</note> And Mr. <hi>Iuſtice
+Bacon</hi> by Law, a Lord of the Parliament is not ſo much as to be of the
+Jury of a Commoner, as learned Sir <hi>Edward Cooke</hi> declared, 1 part.
+inſti. ſect. 234. fo. 156. and if by Law he cannot be of his Jury, <hi>much
+loſſe can he be his abſolute Iury and Iudge both.</hi>
+            </p>
+            <p>And alſo by the Act that aboliſheth the Starre Chamber this
+preſent Parliament 17. <hi>Car. Rex.</hi> it is firmly and ſtrongly
+in<g ref="char:EOLhyphen"/>acted, <hi>that all Lawes, Orders, Ordinances, Iudgements and Decrees, made
+in deminution of the</hi> 29. <hi>Cha. of Magna Charta, and the Lawes before
+recited, are and ſhall be null and void in Law, and holden for errour;</hi>
+and therefore at preſent to conclude this point about jurisdiction, I ſhall
+winde it up with Sir <hi>Edward Cookes</hi> words in his proeme to his 4. part
+inſtitutes, viz. <hi>That the bounds of all Courts are neceſſa<g ref="char:EOLhyphen"/>ry to be
+known; for as the Body of a man is beſt ordered, when every particular Member
+exerciſeth its proper duty; ſo the body of the Common-wealth is beſt
+governed, when every ſeverall Court of juſtice exempteth his proper
+jurisdiction; But (ſaith he) if the eye, whoſe duty is to ſee, the hand
+to worke, the feete to go, ſhall uſurpe, and increach one upon anothers
+workes, as for example, the hands or feet, the office of the eye to ſee, and
+the like; theſe ſhould aſſuredly produce diſorder and darkneſſe,
+and bring the whole body out of order, and in the end to diſtruction; ſo in
+the commonwealth,</hi> Juſtice being the main pre<g ref="char:EOLhyphen"/>ſerver thereof, <hi>if
+one Court ſhould, uſurp or incroach upon another, it would intro<g ref="char:EOLhyphen"/>duce</hi>
+incertainty; ſubvert Iuſtice, and bring all <hi>things in the end to
+confuſion.</hi>
+            </p>
+            <p>But Sir, I ſhall at preſent in this place, ſpare the full
+opening of my plea, in this particular, and reſerve it to the place moſt
+fit for it.</p>
+            <p>And therefore I ſhall infiſt upon the 2 part of my plea, which
+is, <hi>that the mat<g ref="char:EOLhyphen"/>ter <pb n="8" facs="tcp:121769:5"/>and forme of my Warants of
+commitments are illegall,</hi> the legality of which ought, as Sir <hi>Edward
+Coke</hi> declares in his 2. <hi>part inſtit.</hi> (which is publiſhed by
+the preſent Houſe of Commons for good law to the Kingdom, as appeares
+<hi>fol. ult.</hi>) who therein <hi>fol.</hi> 52.590.591. expreſſely
+ſaith, 5. things are eſſentiall in Law, to the making of a commitment
+lawfull, viz. 1. <hi>That is be by dur Proceſſe or proceeding in Law.</hi>
+2. <hi>That he or they that do commit have lawfull authority.</hi> 3. <hi>That
+this warrant or mittimus be lawfull, and that muſt be in writing under his
+hand and Seale.</hi> 4. <hi>The cauſe muſt be contained in the Warant or
+Mittimus,</hi> and that not in generall termes, but in particular, <hi>as for
+treaſon,</hi> then for what particular Treaſon; and <hi>of for
+fellony,</hi> then for what particular felony; and <hi>if for
+miſde<g ref="char:EOLhyphen"/>meanours,</hi> then for what particular miſdemeanour. 5. The
+<hi>Mittimus</hi> contai<g ref="char:EOLhyphen"/>ning a lawfull cauſe, <hi>muſt alſo have a
+lawfull concluſion:</hi> viz. <hi>and him ſafely to keep untill he be
+delivered by due courſe of Law,</hi> and not untill the party com<g ref="char:EOLhyphen"/>mitting
+pleaſe, or doth further order, or for 7. yeares; Now Mr. Juſtice
+<hi>Bacon,</hi> all and every of theſe particulars I doe averre, is wanting
+in both my Commit<g ref="char:EOLhyphen"/>ments. For, firſt, there was no due Proceſſe of Law
+againſt me, no Bill filed, or Indictment preferred, nor no legall complaint
+exhibited againſt me, neither did I ſee any legall proſecutor, before I
+was originally committed, no, nor not to this preſent houre, although I have
+been almoſt two yeares in Priſon; Firſt, in Newgate; and then ſecondly
+in the Tower <hi>devorſed from my wife, debarred of my friends, deprived of
+pen, Inck and paper.</hi>
+            </p>
+            <p>But I deſire to ceaſe this at preſent, and go on to the main
+things. And there<g ref="char:EOLhyphen"/>fore 2. I aver that by the known Law of this Land, neither of
+the Speakers of ei<g ref="char:EOLhyphen"/>ther Houſe, nor neither Houſe themſelves, have the
+leaſt ſhaddow or colour by any <hi>declared and known Law of England,</hi>
+to commit the meaneſt Commoner of <hi>England</hi> (that is not one of there
+members) to priſon, either for treaſon the higheſt crime (<hi>for that is
+expreſly to be tryed</hi> by the common Law, by people of the neighbourhood
+of the ſame condition, as appeares by the 25 <hi>Edward</hi> 3 chap. 2. and
+1. &amp; 2. <hi>Phillip &amp; Mary Chap.</hi> 10.) yea, and it lyes not in the
+whole Parliaments power to puniſh any man, for any crimes which they ſhall
+call trea<g ref="char:EOLhyphen"/>ſons, but what is cleerly declared, and fully expreſſed to be
+treaſon by the ſtatute the 25 <hi>Edward</hi> 3 <hi>Chap.</hi> a as
+appeares by 1 <hi>H.</hi> 4 <hi>Chap</hi> 10. and the 1 <hi>M. Chap</hi> 1.
+<hi>Or for breach of the peace,</hi> although it be in affronting, beating or
+wounding of any Parliament man, (<hi>for that is expreſly ta be tried in the
+Kings Bench.</hi> 5 <hi>H</hi> 4 <hi>Chap.</hi> 6. and 11 H. 6 <hi>Chap.</hi>
+11) Yee although a ſherife by law, <hi>is to pay</hi> 100 <abbr>l.</abbr>
+               <hi>to the King, and to ſuffer a Years Impriſonment, &amp;c. without Baile
+or mainpriſe; for every falſe returne of a Knight of the</hi> Shire,
+<hi>that he makes,</hi> yet by Law, neither Houſes are to be Judges in this
+very buſineſſe, ſo immediately concerning the Houſe of Commons,
+<hi>but it ſhall be examined and tryed before the Juſtices of
+Aſ<g ref="char:EOLhyphen"/>ſiſes in the Seſſions of Aſſiſe,</hi> 8. <hi>H.</hi> 6.
+Chap. 7. &amp; 23. <hi>H.</hi> 6. Chap. 15. yea the Parl. or the Houſe of
+Commons, <hi>are not to puniſh thoſe that will not pay them their
+wages;</hi> for their ſervice done in the Parl <hi>but the refuſers are to
+be puniſhed by the legall adminiſtrators of the Law in the or<g ref="char:EOLhyphen"/>dinarte
+Courts of Iuſtice,</hi> 23. <hi>H.</hi> 6, Chap. 11.</p>
+            <pb n="9" facs="tcp:121769:5"/>
+            <p>Now Sir, if the Parliament, or the two Houſes either conjoyned
+or divided, can<g ref="char:EOLhyphen"/>not exerciſe executive Juſtice in theſe things ſo
+nighly concerning themſelves, much leſs in things more remote, as my caſe
+is, who if I were guilty of the thing layd unto my Charge, <hi>yet they are
+only and alone tryable and puniſhable at the Com<g ref="char:EOLhyphen"/>mon Law,</hi> and not in an
+arbitrary uncertain way in either or both Houſes, the rules of which
+certainly <hi>no man in heaven or earth knoweth;</hi> and ſaith that
+worthieſt of Engliſh Lawyers Sir <hi>Edward Cook,</hi> in the Proem to the
+third part of his Inſtitutes: <hi>It is a miſerable ſervitude, or
+ſlavery, where the Law is uncertain or unknown.</hi>
+            </p>
+            <p>And I know, you know, it is a received Maxim in Law, that the
+Parliament is not to medle with judging or puniſhing that which appertains
+and belongs to the Com<g ref="char:EOLhyphen"/>mon Law, but my pretended crimes have their
+puniſhments appointed by the Com<g ref="char:EOLhyphen"/>mon Law, and are there only to be tryed and
+puniſhed, and therefore in the leaſt be<g ref="char:EOLhyphen"/>longs not unto the Parliaments
+Cogniſance or Juriſdiction: Nay, the Parliament men themſelves, <hi>for
+Treaſon, Felony and breach of the Peace, are not priviledged in the leaſt
+from tryals at Common Law,</hi> as appears by the fourth part Inſtitutes,
+<hi>fol.</hi> 25. and the Lords and Commons confeſs the ſame in their
+Declarations, 1. <hi>part pag.</hi> 48. 278. The Common Law of
+<hi>England,</hi> which is right reaſon (or as Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Cook</hi>
+ſtiles it, <hi>the abſolute perfection of reaſon,</hi> 2 part Inſtit.
+fol. 179.) ha<g ref="char:EOLhyphen"/>teth all partiality or faction in tryals, which would unavoydably
+be, if the Law<g ref="char:EOLhyphen"/>makers ſhould in any caſe be the Law-executioners; and
+beſides the legal benefit of final appeals to the high Court of Parliament,
+<hi>(which I judg in Law to be the whole and intire Parliament and not a
+ſingle Houſe)</hi> would be hereby totally deſtroyed; for if they
+ſhould be impowered by Law to be Executers of it, and ſhould (as it is
+poſſible they may) do me wrong &amp; injuſtice, I am thereby, by power,
+deſtroyd with out remedy, which <hi>the Law abhors;</hi> and <hi>therefore
+the wiſdom and reaſon of the Law is ſuch to betruſt Judges that
+rationally are liable to an account in full Parliament, and them only to be
+ſole Executors and Dispenſers of the Law betwixt party and party;</hi> and
+not to betruſt the whole Parliament, or any part of it, with the execu<g ref="char:EOLhyphen"/>ting
+of the Laws, but only to betruſt them, as their fitteſt work, with a power
+to repeal thoſe Laws that are amiſs, and to eſtabliſh and make better
+in their places. But <hi>the Laws, while they remain Laws and unrepealed, are
+as binding by Law to themſelves, as the meaneſt men in</hi> England, and
+they have no priviledg of exempti<g ref="char:EOLhyphen"/>on from them, ſaving in freedom of ſpeech
+within their reſpective Houſes, (<hi>for which they have an act of
+Parliament to indempnifie them,</hi> as appears by the 4. <hi>H.</hi> 8. ch.
+8.) and freedom from arreſts for them and their ſervants &amp;c. during the
+ſitting of Parli<g ref="char:EOLhyphen"/>ament, which the Law ſuppoſeth not to be long; much
+leſs ſeven years, (which is a deſtruction to our fundamental rights,
+<hi>viz. Annual Parliaments</hi> (or at leaſt An<g ref="char:EOLhyphen"/>nual Elections) as appears
+by the 4. <hi>Edw.</hi> 3. cha. 14. &amp; 36. <hi>Ed.</hi> 3. ch. 10. <hi>both
+which are confirmed this preſent Parliament by the triennial act in</hi> (16.
+Car. <hi>Rex</hi>) and yet if any Parliament-mans ſervant be impriſoned,
+the Houſe of Commons them<g ref="char:EOLhyphen"/>ſelves by Law cannot deliver him, <hi>but it
+muſt be by a Writ out of Chancery, and the member muſt make oath, that the
+party for whom the Writ of priviledg is prayed <pb n="10" facs="tcp:121769:6"/>for, was his
+ſervant at the time of the arreſt made;</hi> all which appears in the
+Caſe of one Mr <hi>Hall,</hi> the 22. of <hi>Feb.</hi> 18. <hi>Eliz.</hi>
+whoſe ſervant being arreſted and impri<g ref="char:EOLhyphen"/>ſoned, a Committee of the
+Houſe reported to the Houſe, they could find no preſi<g ref="char:EOLhyphen"/>dents for the
+delivery of him, but in the way before mentioned, whereupon Mr <hi>Hall</hi>
+was appointed by the Houſe to go to the Lord Keeper, and to do
+accordingly.</p>
+            <p>And if they cannot deliver one that belongs to themſelves, and
+priviledged by the Law of Parliament, (but not by the known &amp; declared Law
+of the Land) nor puniſh him themſelves, that in the execution of the Common
+Law of <hi>England</hi> broke their priviledges, <hi>much leſs in Reaſon
+and Juſtice can they commit or releaſe one that is far remote from
+them,</hi> and doth not by priviledg belong unto them, the laſt of which is
+my preſent caſe; and therefore no colour in Law hath the Houſe of Commons
+to commit me to priſon.</p>
+            <p>And as for the Houſe of Lords, the Petition of Right expreſly
+ſaith, <hi>That no man ought to be adjudged to death &amp;c. but by the
+eſtabliſhed Laws of the Land;</hi> and the expreſs eſtabliſhed Law of
+the Land is, <hi>That no Freeman ſhall be taken, or im<g ref="char:EOLhyphen"/>priſoned, or be
+deſeiſed of his freehold, or liberties, or free cuſtoms, or be out-lawed,
+or exiled, nor condemned, or any otherwiſe deſtroyed, but by the lawful
+judgment of his Peers,</hi> viz a Jury of his Equals, <hi>of the ſame
+neighbourhood where the crime is committed (being brought in to anſwer by due
+proceſs of Law, by Indictment, Pre<g ref="char:EOLhyphen"/>ſentment, or Writ original according to
+the courſe of Common Law)</hi> but the Lords are none of my Peers or Equals,
+and therefore are none of my legal Judges, nor have not the leaſt
+Juriſdiction (in any caſe whatſoever) in the world over me.</p>
+            <p>And though they ſhould have a thouſand preſidents, to ſhew
+they have exerciſed Juriſdiction in the like caſe of mine, they are worth
+nothing, becauſe they are all and every of them againſt the 29 Chap. of
+<hi>Magna Charta;</hi> and <hi>are therefore ex<g ref="char:EOLhyphen"/>preſly declared by the
+Statute that aboliſhed the Star Chamber,</hi> 17. Car. <hi>Rex, this
+preſent Parliament, to be null and voyd in Law; and to be holden for Errors
+and falſe Judgments.</hi> And as for preſidents againſt the Lords and
+Commons Juriſdicti<g ref="char:EOLhyphen"/>on in my particular caſe, one preſident againſt them
+is of more conſequence then a thouſand for them, and the reaſon is
+evident, <hi>becauſe, as Sir</hi> Edward Cook <hi>often declares, all Courts
+of Judicature are bottomed upon the Law of the Land:</hi> and it cannot be
+ſuppoſed that any Court can be miſcognizant or ignorant of its proper
+Juriſdiction. And for the Lords, they have confeſſed in the 4. of
+<hi>Edw.</hi> 3. <hi>Rot. Parl.</hi> 2. in the caſe of Sir <hi>Simon De
+Berisford, that it is againſt the Law for Peers to try Commoners, and have
+promiſed and enacted</hi> (or at leaſt ordained) <hi>that they nei<g ref="char:EOLhyphen"/>ther
+ſhall, nor will do the like again,</hi> though that occaſion were
+ſuperlative, <hi>viz.</hi> about the abſolute murther of King
+<hi>Edward</hi> the ſecond. And</p>
+            <p>Secondly, although the Maior &amp;c. of the Corporation of
+<hi>Cambridg</hi> were, by the Kings Writ out of <hi>Chancery,</hi> ſummoned
+before King <hi>Richard</hi> the ſecond in full Parliament, and <hi>there
+impeached of horrible Treaſon, committed and acted in levying War againſt
+their ſoveraign Lord and King,</hi> and being expreſly within the Statute
+of Treaſons made in the 25 of <hi>Edward</hi> the 3. Cha. 2. <hi>And though
+they <pb n="11" facs="tcp:121769:6"/>ſurrendred up the Charters of</hi> Cambridg <hi>in
+open Parliament, unto the will and pleaſure of the King, as forfeited into
+his hands by their Treaſon and Rebellion, yet as to the point of Treaſon
+they by their Councel expreſly pleaded, that the King and his Lords
+aſſembled in Parliament had no Cognizance or Juriſdiction there to medle
+with Treaſons committed by them, and ſaith the Record,</hi> (which under
+the Regiſter or Record Keepers hand of the Tower I have to ſhew unto your
+Honor, if you pleaſe to have it read) <hi>they alledged divers reaſons
+therefore, and the King and the Lords by their ſilence allowed of their plea
+as good in Law,</hi> and let them go without any puniſhment there, for their
+notorious Treaſons, as appeareth <hi>Rot. Parl.</hi> 5. <hi>Rich.</hi> 2.
+<hi>membrana:</hi> 9. <hi>num.</hi> 45.58, 59. which is ſuppoſed in
+reaſon they would never have done, if their own conſciences and knowledg
+had not told them, that by Law they had not the leaſt Juriſdiction in the
+world over Commoners in any caſe whatſoever: For if not in Treaſon the
+higheſt, then much leſs in miſdemea<g ref="char:EOLhyphen"/>nors the inferioreſt (which is the
+moſt that ever they layd to my charge.)</p>
+            <p>And if the King and Lords have not Juriſdiction over Commoners,
+much leſs the Lords without the King, and much leſs that Houſe of Lords
+that hath layd the King, their fountain of power and honor, aſide, as unfit
+to be addreſſed unto any more, (and yet have not eſſentially or
+avowedly altered the Government of the King<g ref="char:EOLhyphen"/>dom;) ſeeing by their Writ of
+ſummons and all their own Declarations, <hi>they own nor challenge no power
+unto themſelves but what they derive from him,</hi> and therefore by their
+own principles, and by the Law it ſelf, <hi>they have unpowered themſelves
+and totally overthrown and deſtroyed their Juriſdiction,</hi> and now
+can<g ref="char:EOLhyphen"/>not legally or rationally be called a Court of Juſtice or a Houſe of
+Parliament in any ſence, as clearly appears by the 4 part Inſtit.
+<hi>chapt.</hi> High Court of Parliament <hi>fo.</hi> 1.366.46. <hi>the King
+being in Law, as Sir</hi> Edward Cook <hi>there declares, the head, the
+beginning, and the ending of the Parliament;</hi> and in reaſon it is
+impoſſible, <hi>where there is no primitive, there ſhould be any
+derivative:</hi> and therefore I do poſitively conclude, that the Lords have
+both by Law and Reaſon unpowered themſelves, and deſtroyed their Houſe
+from being a Houſe in any ſence, and there<g ref="char:EOLhyphen"/>fore have not the leaſt
+ſhadow or colour of Juriſdiction over me, or any Commoner of
+<hi>England.</hi>
+            </p>
+            <p>And beſides I find in the time of this preſent Parliament many
+Preſidents of the Houſe of Commons, in putting out their ex<g ref="char:EOLhyphen"/>traordinary
+&amp; neceſſitated power to redeem and reſcue the Commons of
+<hi>England</hi> out of the devouring paws of the Lords illegal and
+uſurped<note n="a" place="margin">Here Judg <hi>Bacon</hi> interrupted me, and
+told me they could not ſuffer the Lords to be arraigned before them in that
+manner that I did, and therefore preſſed me to ceaſe all ſuch
+expreſſi<g ref="char:EOLhyphen"/>ons, unto which I replied, Mr Ju<g ref="char:EOLhyphen"/>ſtice <hi>Bacon</hi> I cannot
+make my legal defence for my ſelf, unleſs I ſpeak a<g ref="char:EOLhyphen"/>gainſt the
+non-Juriſdiction of the Lords, but to ſhew my reſpect to you, I ſhall
+avoyd all harſh words as much as the weightineſs of my buſi<g ref="char:EOLhyphen"/>neſs will
+ſuffer; and therefore Mr Juſtice <hi>Bacon,</hi> I humbly intreat you I may
+be ſuffered to go on, and then when I have done, paſs your Judgment upon my
+defence; ſo I went on.</note> Juriſdiction over them, as appears, Firſt
+in Colonel <hi>Edward King</hi> of <hi>Lincoln<g ref="char:EOLhyphen"/>ſhire,</hi> committed by the
+Lords to the Fleet, by the power and intereſt of his then pro<g ref="char:EOLhyphen"/>feſſed
+adverſarie the Lord <hi>Willoughby</hi> of <hi>Parham,</hi> and upon his
+appeal to the Houſe of Commons, in high affront to the Lords 
+<pb n="12" facs="tcp:121769:7"/>pretended Juriſdiction, they releaſed him out of the
+Fleet about the year 1644.</p>
+            <p>Secondly Captain <hi>Macy</hi> belonging to Colonel
+<hi>Manwaring</hi> of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> being upon his guard at the
+Works, ſeiſed upon divers letters of the <hi>Scotch Commiſſioners,</hi>
+and broke them open, a<g ref="char:EOLhyphen"/>bout which the <hi>Commiſſioners</hi> grievouſly
+complained to the Lords, who thereupon clapt the ſaid Captain by the heels in
+the Fleet, and my ſelf with divers others being Solicitors for the Captain to
+the Houſe of Commons, they honorably to him, and in high contempt of the
+Lords uſurpations delivered him out of priſon about the year 1645. and were
+upon de<g ref="char:EOLhyphen"/>bate to give him a large ſum of money for his unjuſt
+ſufferings.</p>
+            <p>Thirdly, upon the Lords committing and cenſuring <hi>of me,</hi>
+I appealed to the Houſe of Commons, and they received my Appeal, and ordered
+me my liberty <hi>De die in diem,</hi> to follow my Appeal, which in my
+underſtanding, is in Law a ſuper<g ref="char:EOLhyphen"/>ſedias both to their Commitment and
+Judgment.</p>
+            <p>Fourthly, Mr <hi>Richard Overton,</hi> who affronted the Lords as
+much as any man that ever came before them, and proteſted to their faces
+againſt their Juriſdiction over Commoners, and appealed to the Houſe of
+Commons for Juſtice againſt them, and after that appealed to all the
+Commons of <hi>England,</hi> and particularly to the General and the whole
+Army; and yet notwithſtanding the Lords <hi>approved of his proteſtation
+&amp;c.</hi> againſt them, by delivering him by their ſpecial order out of
+the priſon of Newgate, without over-ruling him, or puniſhing him, or his
+ſtooping to them.</p>
+            <p>Fifthly, <hi>his Wife and his brother Thomas Overton,</hi> walking
+in ſome meaſure in his ſteps, were juſtified therein by the Houſe of
+Commons, in receiving their Appeals; yea and by the Lords themſelves, by
+delivering them without any pu<g ref="char:EOLhyphen"/>niſhment or judgment out of priſon, and
+without any their ſtooping or ſubmitting to them. Sixthly, theſe very
+proceedings were the caſe of Mr <hi>William Larner</hi> Book-ſeller, his
+<hi>brother</hi> and <hi>maid;</hi> ſo that laying all the premiſes
+together, it is un<g ref="char:EOLhyphen"/>deniably evident, that the preſent Houſe of Lords have
+not the leaſt Juriſdiction in the world over me or the meaneſt Com<g ref="char:EOLhyphen"/>moner
+of <hi>England</hi> in any caſe whatſoever; <hi>(for if not in Treaſon
+the higheſt, much leſs in Miſdemeanors the loweſt);</hi> and therefore
+all their fines upon<note n="b" place="margin">Here I was neceſſitated, by
+reaſon of the Judges often falling foul upon me, to expreſs my ſelf in
+general words, in this manner, and therefore all their fines upon any of the
+Com<g ref="char:EOLhyphen"/>mons of <hi>England,</hi> for not obeying their Warrants or Orders, in
+order to tryals before them, and refuſing to kneel at their Bat in contempt
+of their Juriſdiction, are illegal, and null and voyd in Law, and all thoſe
+Goalers, Officers or Miniſters, that put them in execution, are ſubject in
+Law to make the party moleſted ſa<g ref="char:EOLhyphen"/>tisfaction for their wrongful
+moleſta<g ref="char:EOLhyphen"/>tion.</note> Sir <hi>John Maynard,</hi> Sir <hi>John Gayer, Alderman
+Adams, Alderman Langham, and Alder<g ref="char:EOLhyphen"/>man Bunce,</hi> for refuſing to kneel at
+their Bar, are illegal, and voyd and null in law and reaſon both, for all the
+Lords proceed<g ref="char:EOLhyphen"/>ings <pb n="13" facs="tcp:121769:7"/>with them from firſt to laſt, <hi>are
+coram non Judice,</hi> and the Lieutenant of the Tower &amp;c. liable at Law to
+make them ſatisfaction for his unwarrantable executing of their illegal and
+unbinding Orders and Warrants upon them: And indeed, to ſpeak the truth of
+the arbitrary and tyrannical proceedings of the Houſe of Lords, they are ſo
+illegal and irrational,<note n="c" place="margin">Here again, the Judges
+interrupted me, and told me, they muſt not hear ſuch language of the Lords,
+and ther<g ref="char:EOLhyphen"/>fore preſt me to keep cloſe to my ex<g ref="char:EOLhyphen"/>ceptions againſt the
+return, or elſe they could not let me go on; ſo af<g ref="char:EOLhyphen"/>ter I had expoſtulated
+it pretty well with them, and being in an extream longing deſire to come to
+the main pinch of the buſineſs, very well knowing I had a ſmooth, but yet
+a ſharp ſting for them in the concluſi<g ref="char:EOLhyphen"/>on; I told them at their commands
+I would at preſent ſo far obey them, as skip over part of my matter, and
+did it to the next line where you ſhall find this mark ☞</note> that to
+ſet them up in the way they have lately gone in is to pull down all the
+Judicatures of the Kingdom, and to deſtroy all the Laws of the Land (<hi>in
+the deſtruction of which there is a perfect levelling of</hi> meum &amp; tuum
+<hi>which is totolly overthrown thereby</hi>) and it is alſo a re-edifying of
+an arbitrary, tyranni<g ref="char:EOLhyphen"/>cal, unlimited and unbounded Government (worſe then
+<hi>Empſons</hi> and <hi>Dudleys, Straf<g ref="char:EOLhyphen"/>fords</hi> or <hi>Canterburies,</hi>
+for which yet they all loſt their lives) many ſtories higher then ever the
+<hi>Star-Chamber, High Commiſſion,</hi> or <hi>Councel Table</hi> were,
+(which yet were arbitrary enough, as appears by the Acts made 17. <hi>Car.
+Rex,</hi> for aboliſhing them) and indeed it behoves all the rich men of
+<hi>England</hi> well to look about them in reference to the Lords: For if a
+company of men, by vertue of their being made Peers by the King or his will and
+prerogative, may at their pleaſure and wills, without all ſhadow of Law or
+Juſtice, fine one Commoner of England more then he either is or ever was
+worth (<hi>as they have done me, upon whom they have ſet a fine of</hi> 4000
+<abbr>l.</abbr>) by the ſame rule of right reaſon and Juſtice, they may,
+at their pleaſures, rob all the rich men of <hi>England,</hi> by Fines, of
+all that ever they are worth; yea, and by the ſame reaſon and juſtice,
+ſhare it and divide it <hi>amongst themſelves,</hi> and ſo have better
+places abundantly of it then ever the Earl of <hi>Dorſet</hi> had, by being a
+privy Counſellor and Judg of the <hi>Star-Chamber,</hi> which yet, if ſome
+that well knew him, belie him not, was worth many thouſand pounds, per annum,
+to him in an underhand way; <hi>and beſides, if the Lords can
+perſevere,</hi> and hold on, as they have lately begun, the King was very
+unwiſe to call a Parliament, and of, and from them to ſeek for
+ſubſidies, ſeeing the workman<g ref="char:EOLhyphen"/>ſhip of his own hands, (the Lords, by
+vertue of their having his prerogative ſtamp upon them,) <hi>is able to fine
+by their wills, a Commoner of England more then he is worth,</hi> and therefore
+may much more legally fine all the Commoners of <hi>England</hi> at their
+pleaſure, a <hi>quarter, half; three quarters, or all they are worth,</hi>
+and ſo fill the <pb n="14" facs="tcp:121769:8"/>Kings (or their own) Cofers at their
+pleaſure full, and get in to them all the money of <hi>England;</hi>
+therefore let rich men look about them in this particular, and in a ſe<g ref="char:EOLhyphen"/>cond
+regard alſo, more dangerous then this; foraſmuch as it concerns life, let
+all men, I ſay, look well about them, for I am confident of this, that I
+ſuffer ſo much Bar<g ref="char:EOLhyphen"/>bariſm from <hi>Cromwel,</hi> and his Creatures, who
+are not willing to come to a tryal with me, for the Leiutenant of the Tower
+hath already denyed me the benefit of the Law of <hi>England,</hi> in not
+obeying my firſt <hi>Habeas Corpus,</hi> and would not ſuffer me without
+freſh ſtrugling to come to a legal tryal, and thereby have before the ſun
+convicted themſelves of wickedneſs and unrighteous dealing with me, for
+ſaith <hi>Chriſt, John</hi> 3.20. Every one that doth evil hateth the
+light, neither commeth to the light, leſt his deeds ſhould be reproved or
+diſcovered; I ſay, I am confident I ſuf<g ref="char:EOLhyphen"/>fer ſo much from
+<hi>Cromwel</hi> &amp;c. for oppoſing and throwing down the Lords Ty<g ref="char:EOLhyphen"/>ranny,
+which he did, and ſtill (is evident) he doth intend to make <hi>the
+arbitrary</hi> (yet ſeeming legal) <hi>ax to chop off the head of every man
+in</hi> England, <hi>he hath a mind to deſtroy any otherwiſe then by wilful
+murder,</hi> as he did <hi>Richard Arnal at Ware:</hi> and having been under
+God, the chief Inſtrument to break him of that damnable and wicked deſign,
+he and his Creatures, therefore are as mad at me as ſo many mad men, &amp;c.
+Although they have done ſo much already in deſtroying the Law, and
+ſetting up Arbitrary Tyranny, that I will make it good with my life, divers
+of them, <hi>viz.</hi> of the Houſe of Lords, &amp;c. better deſerve Tower
+hill, therefore, then ever <hi>Srafford</hi> did; <hi>but what a company of
+fooliſh, ſilly Creatures</hi> are <hi>Cromwel,</hi> and his
+<hi>confede<g ref="char:EOLhyphen"/>rate Grandees,</hi> who would pretend to give thoſe Commoners of
+<hi>England</hi> a tryal ac<g ref="char:EOLhyphen"/>cording to Law and Juſtice,<note place="margin">☞</note> whoſe lives they would take away by a tryal
+before the Lords,<note n="*" place="margin">Here I began, and ſaid, Sir, what
+an errational thing is it for the Lords to go about at their bar to try
+Com<g ref="char:EOLhyphen"/>moners for their lives, when as men that know the Law, &amp;c.</note> when
+as men that know the Law of <hi>England,</hi> fully knows, that if the
+preſent Lords were a true Houſe of Lords, (as before I have fully proved
+they are not) yet they were not able legally to try one of themſelves, for
+though the body of their Houſe (in caſe they were twelve or eighteen, and
+under they cannot be) ſhould be in the nature of a grand Jury, and petty
+Jury, and ſo the Judges of matter of Fact, yet they muſt have a Judg of
+matter of Law too, and <hi>that muſt be a Lord high Steward,</hi> which they
+neither have, <hi>nor are able legally to make,</hi> and therefore have no
+colour of power in Law to try one of themſelves, <hi>much leſs a Commoner,
+that is none of their Peer or equal,</hi> whom <hi>the Law hath again and again
+expreſly prohibited them to meddle with;</hi> but enough for the Lords at
+preſent, and now two things more diſtinctly for the Houſe of Commons.</p>
+            <p>Firſt, admit, they had a Juriſdiction in executing the Law,
+(which I have before already fully proved they have not) yet all Courts of
+Juſtice eſtabliſhed by Law in <hi>England,</hi> are bound and tyed to
+Judg no man but by witneſſes, ſworn according to the Law, <hi>they being
+the evidence to the Jury and Judg,</hi> 3. <hi>part inſtit. fol.</hi> 163.
+But <pb n="15" facs="tcp:121769:8"/>they never put <hi>Maſterſon,</hi> my accuſer, to
+his oath, in his Information he delivered againſt me, (although he were but a
+ſingle informer, never any man of all the large company beſides himſelf
+appearing againſt me,) and therefore no ſhadow or co<g ref="char:EOLhyphen"/>lour for the Houſe
+of Commons to adjudg or condemn me to priſon thereupon, <hi>ſeeing no man
+whatſoever can be condemned by any Court in</hi> England <hi>without
+wit<g ref="char:EOLhyphen"/>neſſes, ſworn againſt him according to Law;</hi> but if he had
+delivered what he did deliver againſt me upon his oath, it had been never the
+legaller, becauſe they have no power, nor never had to adminiſter an oath,
+and therefore cannot by the Law of <hi>England</hi> in the leaſt pretend any
+Juriſdiction over me in caſes Criminal, or any power at all to commit me to
+priſon; for where the Court hath no authority to hold plea of the Cauſe,
+there all proceedings are <hi>Coram non Judice,</hi> and <hi>there
+per<g ref="char:EOLhyphen"/>jury</hi> (though <hi>Maſterſon</hi> had ſworn never ſo falſly)
+<hi>cannot be committed;</hi> and ſo againſt all reaſon, a man is left at
+liberty to ſay without fear of puniſhment what he pleaſe, <hi>becauſe
+it being not in a Judicial Proceeding, no perjury can be commit<g ref="char:EOLhyphen"/>ted by
+Law;</hi> and that the Houſe of Commons hath no power to adminiſter an oath
+is evident, <hi>in that the Law gives them none, nor they never practiſed
+it;</hi> and there<g ref="char:EOLhyphen"/>fore, if they would now put it in uſe, they cannot legally
+of themſelves now begin to do it: For as learned <hi>Cook</hi> ſaith in his
+Chapter of perjury, 3. <hi>part. inſtit. fol.</hi> 165. <hi>An oath is an
+affirmation or denyal of any thing lawful and honeſt, before one or more,
+that have authority to give the ſame for advancement of truth and right,
+calling Almighty God, the ſearcher of all hearts, to witneſs that his
+Teſti<g ref="char:EOLhyphen"/>mony is true, ſo that</hi> (ſaith he) <hi>an oath is ſo ſacred,
+and ſo deeply concerning the Conſciences of Chriſtian men, as the ſame
+cannot be adminiſtred to any, unleſs the ſame be allowed by the Common
+Law, or by ſome Act of Parliament; neither can any oath</hi> (ſaith he)
+<hi>allowed by the Common Law, or by Act of Parliament, be al<g ref="char:EOLhyphen"/>tered, but by Act
+of Parliament,</hi> no nor a new oath raiſed, and therefore he declares it to
+be a high <hi>contempt of the Law of</hi> England, <hi>for any man to
+adminiſter an oath without warrant of Law, and to be puniſhed by fine and
+impriſonment,</hi> and of all<note n="a" place="margin">And here I skipped
+ſeven or eight lines to this mark ☞</note> oaths in uſe in
+<hi>England:</hi> This oath of Confirma<g ref="char:EOLhyphen"/>tion, for deciding and ending of
+Controver<g ref="char:EOLhyphen"/>ſies, is the only and alone warrantable oath by the Law of God,
+<hi>Mat.</hi> 5.34, 35, 36, 37. and <hi>Heb.</hi> 6.16, 17. <hi>James</hi>
+5.12. And as for other oaths, I know no uſe in the world of them, for thoſe
+men that do not love things that are excellent, for the excellency inherent in
+them, will never love nor honor them for oaths ſake.) But ☞ the Houſe
+of Commons wanting a legal power to adminiſter an oath, it is a clear
+demonſtration and proof, that they have no power or Juriſdiction at all in
+Law, to decide Controverſies betwixt a man and his neighbour, eſpecially in
+times of peace, when all the ordinary Courts of Juſtice are open, and
+therefore have no ſhadow or colour in Law to adjudg or commit any man that is
+not a Member of them to priſon.</p>
+            <pb n="16" facs="tcp:121769:9"/>
+            <p>And in<note n="b" place="margin">But all this preſident to avoid
+diſ<g ref="char:EOLhyphen"/>putes I skipt over, for the Judges preſt that the Houſe of Commons
+owned the Lords Juriſdiction in ſome caſes, to which I anſwered, I
+owned it as well as they, and told them I was wil<g ref="char:EOLhyphen"/>ling to give the Lords as
+much Juriſ<g ref="char:EOLhyphen"/>diction without diſpute as they deſi<g ref="char:EOLhyphen"/>red, to Judg, condemn and
+deſtroy one another, ſo they would not med<g ref="char:EOLhyphen"/>dle with me, nor my fellow
+Commo<g ref="char:EOLhyphen"/>ners: and I was confident, if the Lords diſtinctly, as a ſingle
+Houſe, had any Juriſdiction at all in Law, it was but over themſelves,
+and as much of which as they pleaſe to take, I am willing without diſpute
+to grant them.</note> the ſecond place, That the Houſe of Commons have no
+judgment or Juriſdiction by Law, clearly appears by their own confeſſion
+in the roul of Parlia<g ref="char:EOLhyphen"/>liament, in the 1. <hi>H.</hi> 4. <hi>Membr.</hi> 14.
+<hi>Num.</hi> 79. which this preſent <hi>April,</hi> I had under Mr.
+<hi>William Riley,</hi> the Record-Keepers hand, which at the Bar I am ready to
+pro<g ref="char:EOLhyphen"/>duce, and which thus in Engliſh verbatim, followeth.</p>
+            <p>
+               <hi>The third day of November the Com<g ref="char:EOLhyphen"/>mons made their
+Proteſtation, in manner, as they made it at the beginning of the Parliament,
+and over and above declare to the King, That foraſmuch as the Judg<g ref="char:EOLhyphen"/>ment of
+Parliament belongs only to the King, and to the Lords,</hi> and not to the
+Commons, <hi>unleſs it pleaſe the King, of his grace eſpecially ſhewed
+them, that the ſaid Iudgment was for their eaſe, and no re<g ref="char:EOLhyphen"/>cord ſhall be
+made in Parliament againſt the ſaid Commons,</hi> that they are, or ſhall
+be, parties to any judgments given, or to be given hereafter in Parliament.
+<hi>To which was anſwered, by the Archbiſhop of</hi> Canterbury, <hi>by the
+Kings command, that the ſaid Commons ſhall be Petitioners and Demanders,
+and that the King, and the Lords, at all times, have had, and ſhall have by
+right the Iudgment in Parliament; in manner, as the ſaid Commons have
+ſhewed, unleſs it be in Statute affairs, or in grants and ſubſidies, or
+in ſuch things and affairs for common profit of the Kings Realms, the King
+will have their eſpecial advice and aſſent, and that this Order be kept
+in all times to come.</hi> And ſo much at preſent for the 2<hi rend="sup">d</hi> eſſential
+of a warrant.</p>
+            <p>And now I come to give a touch, and but a touch only upon the
+third ingredient to make a <hi>mittimus</hi> lawful, and that is, that it be
+under hand and ſeal, expreſſing the office and place of him which makes
+it, unleſs the party be committed in the ſight of the Judg, ſitting in
+open Court, but there is no <hi>ſeal to mine,</hi> and therefore <hi>it is
+illegal,</hi> for I was not in the view of my pretended Judges when they
+committed me.</p>
+            <p>But Mr. Juſtice <hi>Bacon,</hi> I come to the fourth thing, upon
+which, at preſent, as one of the principal eſſentials, I ſhall
+ſtifflly ſtand, which is, <hi>That the warrants of my Commitments, both
+from Lords and Commons now returned before you are illegal, there being nothing
+but generals laid unto my charge by them, which is no charge nor crime in
+Law;</hi> and therefore, both my warrants wanting a legal and a <hi>particu<g ref="char:EOLhyphen"/>lar
+cauſe</hi> in them, <hi>there is no colour in Law to keep my body in priſon
+by vertue of them.</hi> Now to prove that Generals are no crimes nor charges in
+Law, though the dayly and continual practiſes of all the Courts of Iuſtice
+in <hi>England</hi> prove it, yet for illuſtration ſake. I ſhall crave
+leave to alledg ſome legal Authorities. And in the <pb n="17" facs="tcp:121769:9"/>Firſt
+place, I ſhall begin with the Judgement of Sir <hi>Edward Cooke</hi> upon the
+Statute of breaking of priſons, made 1 <hi>Ed.</hi> 2. who in his 2. part
+inſtitutes fo. 591. expreſly ſaith, 
+<q rend="margQuotes">ſeeing the weight of this
+buſineſſe touching this point, to make an eſcape either in the party or
+in the Gealours Fellony dependeth upon the lawfulneſſe of the
+<hi>Mittimus,</hi> it will be neceſſary to ſay ſomwhat hereof. Firſt,
+it muſt be in writing, in the name, and under the ſeale of him that makes
+the ſame, expreſſing his Office, place, and authority; by force whereof
+he makes the <hi>Mittimus,</hi> and it is to be directed to the Goaler, or
+Keeper of the Goale or Priſon.</q> Secondly, it muſt containe the cauſe
+(as it expreſly appeareth by this Act,<note n="*" place="margin">25.
+<hi>Ed.</hi> 3. <hi>Coran.</hi> 134. and 32. <hi>Ed.</hi> 3. <hi>Coram.</hi>
+248. and 9. <hi>Ed.</hi> 4. fol. 52.</note> unleſſe the cauſe for which
+he was taken, &amp;c.) <hi>but not ſo certainly as an indictment ought, and
+yet with ſuch convenient certainty, as it may appeare judicially, that the
+offence requires ſuch a judgement;</hi> as for High-Treaſon, <hi>to
+wit,</hi> AGAINST THE PERSON OF OVR LORD THE KING; <hi>or for the
+counterfetting of the money of our Lord the King, or for petty Treaſon;</hi>
+namely, for the death of ſuch a one, being his Maſter, or for Fellony to
+wit, for the death of ſuch a one, &amp;c. <hi>or for blurgary, or robbery,
+&amp;c. or for Fellony;</hi> for ſtealing of a horſe, &amp;c. <hi>or the
+like, ſo as it may in ſuch a generality appeare judicially, that the
+offence required ſuch a judgement,</hi> and he there further goes on &amp;
+gives divers ar<g ref="char:EOLhyphen"/>guments &amp; reaſons, &amp; ſcites abundance of law
+authorities to prove, <hi>that a parti<g ref="char:EOLhyphen"/>cular cauſe,</hi> ought by Law to be
+expreſſed in every <hi>Mittimus</hi> or Warrant of Commitment.</p>
+            <p>My ſecond proofe to prove generalls, are no charge in Law, is
+the deliberate and reſolved opinion of all the Judges of <hi>England</hi> in
+the 3, yeare of King <hi>Iames,</hi> (which was a time of full peace; wherein
+the law had its free currant, without the threates of Marciall or the checks of
+Prerogative arbitrary power, and there<g ref="char:EOLhyphen"/>fore the Judgement is of more weight)
+who in their anſwer to the 22. object, on or article of Archbiſhop
+<hi>Bancroft,</hi> and to the whole Clergy of <hi>England,</hi> hath thoſe
+very words, 
+<q rend="margQuotes">we do not, neither will we in any wiſe
+impugne the Eccleſiaſti<g ref="char:EOLhyphen"/>call authority in any thing that appertaineth unto
+it, but if any by the Eccleſia<g ref="char:EOLhyphen"/>ſticall authority, commit any man to
+priſon, upon complaint unto us that he is impriſoned without juſt
+cauſe, we are to ſend to have the body, and to be cer<g ref="char:EOLhyphen"/>tified the cauſe,
+and if they will not certifie unto us the particular cauſe, but ge<g ref="char:EOLhyphen"/>nerally
+without expreſſing any particular cauſe whereby it may appeare unto as to
+be matter of eccleſiaſticall cognizance, and his impriſonment be juſt
+then we do and ought to deliver him and this (ſay the Judges) is the Clergies
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ault and not ours, and
+although ſome of us have dealt with them to make ſome ſuch particular
+Certificate to us, whereby we may be able to judge upon it as by Law they ought
+to do, yet they will by no meanes do it, and therefore their errour is the
+cauſe of the thing they complaine of, and no fault in us,</q> for if we ſee
+not a juſt cauſe of the parties impriſonment by them, then we <hi>ought
+and are <pb n="16" facs="tcp:121769:10"/> 
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap> 
+                  <pb n="17" facs="tcp:121769:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap> 
+                  <pb n="18" facs="tcp:121769:11"/>bound by Oath to deliver him,</hi>
+and ſutable to this is their anſwer to the Clergies 21. Article, which
+Articles and anſwers are recorded in 2. part inſtit. fo. 614.615.616. My 3.
+proofe to prove that Generalls are no crimes in Law, is out of the 4. part
+inſtit. fo. 39. where the Lord <hi>Cooke</hi> expreſly ſaith, 
+<q rend="margQuotes">That a man by law can<g ref="char:EOLhyphen"/>not be attainted of
+High-Treaſon,</q> unleſſe the offence be in Law high treaſon (for where
+there is no law there can be no tranſgreſſion, <hi>Rom.</hi> 4.15.) he
+ought 
+<q rend="margQuotes">not to be attainted by generall words of
+high treaſon by authority of Parlia<g ref="char:EOLhyphen"/>ment (as ſometime hath been uſed) but
+the high treaſon ought to be ſpecially expreſſed, ſeeing that the
+Court of Parliament is the higheſt and moſt ho<g ref="char:EOLhyphen"/>nourableſt Court of
+Juſtice, and ought (as hath been ſaid) to give example to inferiour
+Courts.</q> And beſides, all this ſeemes to me, to be clearly and
+evi<g ref="char:EOLhyphen"/>dently held forth by thoſe 2. notable ſtatutes, viz. <hi>The Petition
+of Right,</hi> 3. <hi>Car. Rex, &amp; the Act that aboliſhed the
+Starre-Chamber in</hi> 17. <hi>Car. Rex,</hi> So that from all that hath been
+ſaid to this 4. head alone, I am confident, I may in Law chal<g ref="char:EOLhyphen"/>lenge my
+liberty and freedom from your honours hands without bayle, as my undoubted and
+unqueſtionable right by Law, and which you neither can, nor ought by Law to
+denye unto me, ſeeing that by both the Warrants of my Com<g ref="char:EOLhyphen"/>mitments, I am
+rendred a juſt and an innocent man, <hi>there being by them not the leaſt
+pretence of a legall crim: laid unto my Charge, for Generalls is (as is already
+ful<g ref="char:EOLhyphen"/>ly proved) no Charge nor crimes in Law;</hi> And alſo hath been ſo
+adjudged and de<g ref="char:EOLhyphen"/>clared by the preſent two Houſes of Parliament, as if it
+were requiſite I could particuler<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe fully unto you, &amp; 3. inſtances at preſent, I ſhall
+only give you, <hi>viz.</hi> the 5. Members, and the Lord <hi>Kimbolton,</hi>
+and the Lord Major <hi>Pennington,</hi> and the late 11. Members, whoſe
+caſes you may reade 1 part. Booke Decler. pag. 38. 77. 201. 845. but being I
+am here principally to pleade Law, and not Ordinances, I ſhall forbeare to
+inlarge my ſelfe thereupon, and yet before I conclude, ſhall with your
+Honours leave, ſpeake a few words, to the fift and laſt ingredient to make
+a Mittimus lawfull.</p>
+            <p>Viz. That it have a legall concluſion, <hi>in theſe words, and
+him ſafely to keepe, un<g ref="char:EOLhyphen"/>till he be delivered by due courſe of Law, and not
+for</hi> 7. <hi>yeares, nor untill the party committing doth further
+order,</hi> which legall concluſion is wanting in both my Commitments, and
+therefore illegall.</p>
+            <p>Which moſt deſperate Co<g ref="char:cmbAbbrStroke">̄</g>mitments being illegall in all the 5
+eſſentialls, I may call and doe call them impoyſoned Arrowes, ſhot
+through the principall vitall of Englands liberty; (but here both the Judges
+interrupted me to the purpoſe, and would not let me goe on with my Retorick,
+ſo that I was neceſſitated for leare I ſhould not be ſuffered to
+plead my concluſion, which I looked upon to be the ſtrength of all my work,
+&amp; therefore was forced to ſkip over divers leaves to the objection,) and
+the cheife authors of them not deſerving, to be named or ſtiled the patrons
+of their Country, no not ſo much as well wiſhers to the liber<g ref="char:EOLhyphen"/>ties 
+<pb n="19" facs="tcp:121769:11"/>thereof, for here is Law, equitie, and Juſtice dethroned,
+and abſolute will, or blinde luſt challinging the proper imperiall ſeate
+of England, the Commitments drawes the black line over the name of
+<hi>Englands</hi> Freedom, yea, the line of con<g ref="char:EOLhyphen"/>fuſion upon the Kingdom, if
+the Parliament, or both Houſes, ſhall thus actual<g ref="char:EOLhyphen"/>ly avow, that they are to
+governe looſe without the reſtraint of any lawes (mock<g ref="char:EOLhyphen"/>ing the Kingdome
+thereby, in making Judges to execute the Law) yea, and abſolved from all Laws
+of government, as though it were in their power to diſ<g ref="char:EOLhyphen"/>poſe of the
+perſons of all the people of <hi>England</hi> at there will and pleaſure,
+the granting or challenging of which, can be no leſſe, then the abſolute
+diſtroying of all the mutuall relations and dependancy in a Kingdom, or
+common wealth, <hi>yea, &amp; the levelling of all termes of deſtinction
+betwixt ruler</hi> &amp; ruled, yea hereby the very foundation of property of
+<hi>meum &amp; tuum</hi> is totally overturned, &amp; no man can call any thing
+he poſſeſſeth his owne; for my perſon is nearer to me then my
+Eſtate, <hi>and he that at his will may diſpoſe of my perſon, may much
+more at his will and plea<g ref="char:EOLhyphen"/>ſure diſpoſe of my Eſtate,</hi> And therefore
+Mr. Juſtice <hi>Bacon</hi> this manner of im<g ref="char:EOLhyphen"/>priſoning, is no better then a
+two edged ſword, whereby the liberties of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> is mortally
+wounded, if not actually cut in peeces, and the Prime Au<g ref="char:EOLhyphen"/>thors of theſe
+Commitments in the eye of God, and all rationall men, deſerve the higheſt
+&amp; exempliarieſt, of puniſhments, in thus ſubverting the very baſes
+and foundations of government, &amp; ſo unavoydably imbroyling the Kingdom a
+new in Warrs, to preſerve themſelves from totall vaſſellage or
+diſtruction; eſpecially, conſidering that they themſelves have done
+theſe things, after they themſelves have chopt off the heads of
+<hi>Straford and Canterbury</hi> for the very ſame things: and therefore by
+the ſtrength of reaſon (if there were no other law in being) they deſerve
+their own executed puniſhment. Againe, the Law 
+<q rend="margQuotes">never inſtituted a Goale for
+puniſhment and deſtruction, but for a place of ſafe keeping of a
+criminall perſon,</q> that could find no better bayle, where he ought to be
+kept and intreated with all humanitie, civillity and reſpect, till he be
+brought to a ſpeedy tryall; all Goales in <hi>England</hi> by Law being to be
+delive<g ref="char:EOLhyphen"/>red 3. times a yeare at leaſt, or more oftener if neede require.<note n="*" place="margin">1 part inſtit. lib. 3. ch. 7. Sect. 438. fo. 260. and 2.
+part. inſtit. fo. 42.43.115.186.189.315. and 3. E. 1. ch. 25.</note> But I
+have been almoſt two yeares in priſon, and never to this houre had a<g ref="char:EOLhyphen"/>ny
+legall Crime laid unto my Charge, nor can<g ref="char:EOLhyphen"/>not be ſuffered to come to a legall
+Tryall, though to my extraordinary expences, toyle, hazard, and trouble, I have
+indeavoured it withall my might; but cannot be ad<g ref="char:EOLhyphen"/>mitted to have any benifit of
+the law which I do averre is the higheſt of tiranny, being kept in Goale in a
+languiſhing condition worſe then anyſuddaine death, being ever dying and
+yet not dead.</p>
+            <p>And therefore I do poſitively averre, that the Arbitratineſs
+of the Concluſions <pb n="20" facs="tcp:121769:12"/>of my Commitmants, is that wich
+ſtrikes the Fatall Stroke through the heart Roote of Freedome, and Juſtice;
+yea it overturnes overturnes the Founda<g ref="char:EOLhyphen"/>tions of the Kingdome, <hi>this very
+ſivgle act, if drawne into preſident hath a ſemi<g ref="char:EOLhyphen"/>nall vertue in it,
+whereby is contained in its ſelfe, all the diſtinct ſpecies of
+inju<g ref="char:EOLhyphen"/>ſtice, whereof the Sun was ever yet ſpectator.</hi>
+            </p>
+            <p>Yes, this arbitrary Commitment doth <hi>Ipſe facto</hi>
+enervate, yea eva<g ref="char:EOLhyphen"/>nuate, &amp; null all eſtabliſhed lawes of the land,
+&amp; renders all rowles &amp; records, no better then waiſt papers, <hi>fit
+for nothing but to light Tobacco Pipes;</hi> for to what purpoſe ſerves
+<hi>Magna Charta,</hi> the Petition of right, and other wholſom Lawes; which
+ſay, 
+<q rend="margQuotes">no man ſhall be impriſoned, paſt
+upon &amp;c. or any other wayes deſtroyed, but by the Lawfull Iudgement of
+his equalls, or by due pro<g ref="char:EOLhyphen"/>ceſſe of Law,</q> when as the rule to puniſh
+ſuppoſed or reall tranſgreſſors, ſhall be mens wills &amp; luſts,
+as in my caſe by my Commitments, &amp;c. it is, ſo that if 500. men ſhall
+aſſume and arrogate to themſelves the abſolute dominion over the people
+of the Land, <hi>then it may be England ſhall have</hi> 500. <hi>diſtixct
+luſts unto which they muſt conforme their actions.</hi>
+            </p>
+            <p>And ſure I am, that the dealings of the Lords and Commons with
+me, demon<g ref="char:EOLhyphen"/>ſtrated by their orders of committments, <hi>flowes not from any
+power given them, either by the Law of the Laud, nor from the Indentures
+betwixt them and their chu<g ref="char:EOLhyphen"/>ſers, no nor yet from any word or clauſe in the
+Writ of there ſummons or Electi<g ref="char:EOLhyphen"/>ons;</hi> and therefore fourthly, it muſt
+flow from there CROOKED IVSTS, DE<g ref="char:EOLhyphen"/>PRAVED VVILLS, and ARBITRARY PLEASVRES, by
+<hi>which with naked faces they declare themſelves to be limitted by no
+boundary, unac<g ref="char:EOLhyphen"/>countable and obnoxius to no cenſures for any poſſible
+abuſe whatſoever that can becommitted by them,</hi> for by theſe
+committments they evidently declare there is no rule whereby to meaſure the
+rectitude or obliquitie, juſtice or in<g ref="char:EOLhyphen"/>juſtice of their Government and
+actions, 
+<q rend="margQuotes">and by conſequence they are under an
+impoſſibilitie to render an account of their wayes and doings (and ſo by
+conſequence, the people of England are in the abſoluteſt road way of
+perfect ſlavery that is upon the earth) this the Parliament, or the Lords and
+Commons would have the World to beleive they abhord in the King,</q> as
+appeares by there laſt declaration againſt him, in which they ſhew the
+reaſons of their votes not to make or to receive, any addreſſes to, or
+from him, for in <hi>Page</hi> 12, they ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y 
+<q rend="margQuotes">the King hath laid a fit foundation for
+all tiranny, by that moſt de<g ref="char:EOLhyphen"/>ſtructive maxime of his, <hi>viz.</hi> that he
+oweth no account of his actions to any but to God alone,</q> but by the
+warrants of my co<g ref="char:cmbAbbrStroke">̄</g>mitments it ſeemes this wick<g ref="char:EOLhyphen"/>ed and heatheniſh Maxim, is
+Iudged by the makers thereof not to be to ſweete a morſell for their own
+Pallets, though in their ſaid declaration they judge it to ſweet for the
+Kings, and therefore to conclude this point if this honorable Court of
+Juſtice, the Judges whereof are ſworne to Judge according to the Law, and
+not luſt, will nor pleaſure, will Judge theſe arbitrary Committments of
+mine <pb n="21" facs="tcp:121769:12"/>to be legal, then I make my humble deſire unto you
+the Judges thereof, 
+<q rend="margQuotes">that you would couſen and deceive the
+people of the Kingdome no longer, by aſſum<g ref="char:EOLhyphen"/>ing unto your ſelves the name
+of Judges of the Law, but rather tranſlate your Titles into the name of
+Judges of luſt, will and pleaſure, that ſo the people may expect the
+legall adminiſtration of the Law, no longer from you:</q> and ſo I have
+done with the Fift, and laſt ingredient to a legall Mittimus. Now Mr.
+Juſtice <hi>Bacon,</hi> ſeeing it is objected both by you, and Mr.
+Juſtice <hi>Roll,</hi> that my Commitment from the Lords, is rather a
+Sentence, Judgement, or Decree, hen a bare Mittimus, and therefore being a
+judgement by the Lords, a higher Court, for 7. yeares impriſonment; I cannot
+be delivered by this Court, which be<g ref="char:EOLhyphen"/>ing inferiour to it, cannot reverſe it,
+nor be Judges of it.</p>
+            <p>To which Mr. Juſtice <hi>Bacon,</hi> I anſwere, Firſt, I doe
+not ſeeke unto you at preſent for reverſement of my Sentence, <hi>which
+is</hi> 4000. <hi>
+                  <abbr>l.</abbr> fine, and perpetuall disfranchiſement of
+the Liberties of an Engliſhman, as well as ſeven yeares
+im<g ref="char:EOLhyphen"/>priſonment:</hi> But I come unto you as Judges of the Law (who are
+ſworne im<g ref="char:EOLhyphen"/>partially to doe me Law and Juſtice, <hi>notwithſtanding any
+command whatſoever, by any whatſoever to the contrary,</hi>) for my
+perſonall liberty, which is my un<g ref="char:EOLhyphen"/>doubted right by Law, for any thing that
+judicially appeares before you, upon the Warrants of my commitments. For I have
+already fully proved unto you, there is not legally the leaſt crime in the
+world laid unto my charge, and there<g ref="char:EOLhyphen"/>fore no rules in Law for you to ſend me
+backe againe to priſon.</p>
+            <p>But ſecondly, I anſwer, that I have already proved the Lords
+are none of my legall Judges, and therefore all their proceedings with me from
+firſt to laſt, are <hi>corum non judici,</hi> Yea, even their Sentence and
+Commitment it ſelfe, for being it is againſt the 29. Chap. of <hi>Magna
+Charta,</hi> (it is void and null in Law) which expreſſely ſaith,
+<hi>That no Freeman ſhall be taken or impriſoned, or be diſſeſed of
+his Freehould, or Liberties, or free Cuſtomes, or be Outlawed, or exiled, or
+any otherwiſe deſtroyed, nor paſt upon, nor condemned by the lawfull
+judgement of his equals, or by the Law of the Land, which Law of the Land is
+expounded by the Statute of the</hi> 25. Ed. 3.4. &amp; 37. Ed. 3.18. and Sir
+<hi>Ed<g ref="char:EOLhyphen"/>ward Goke</hi> in his 2. part inſtit. fo. 50.51. to be by due
+Proceſſe of Law, viz: <hi>That none ſhall be taken and paſt upon.
+&amp;c. by Petition or ſuggeſtion made to our Lord the King, or to his
+Counſell, undeſſe it be by indictment, or preſentment of good and
+lawfull men, where ſuch deeds be done, in due manner, or by Writ ori<g ref="char:EOLhyphen"/>ginall
+at the Common Law, being brought in to anſwere by due Proceſſes,
+accor<g ref="char:EOLhyphen"/>ding to the common and olde Law of the Land,</hi> all which &amp;c. is
+confirmed by the Statute that aboliſhed the Starre-Chamber, this preſent
+Parliament, 17. <hi>C. R.</hi> and all Acts, Ordinances, Orders, Judgements and
+Decrees, made contra<g ref="char:EOLhyphen"/>ry thereunto, or in diminution thereof, are thereby
+declared, <hi>ipſo facto,</hi> to be null, and voide in Law, and are to be
+holden for errors and falſe judgements, which totally barrs and overthtowes
+all Preſidents whatſoever to the contra<g ref="char:EOLhyphen"/>ry, <pb n="22" facs="tcp:121769:13"/>yea
+although the Lords had a million of them. (And excellent to this pur<g ref="char:EOLhyphen"/>poſe, is
+Sir <hi>Edward Cookes</hi> Commentary upon the 3. <hi>Ed.</hi> 1.
+<hi>chap.</hi> 15 but eſpe<g ref="char:EOLhyphen"/>cially, his Commentary upon theſe words, viz.
+<hi>Or Commandement of the King,</hi> Firſt, faith he, the King being a body
+politique, cannot command but by mat<g ref="char:EOLhyphen"/>ter of Record; for the King commands, and
+the Law commands, are all one, for the King muſt command by matter of record
+according unto the Law. Se<g ref="char:EOLhyphen"/>condly, When any Judiciall Act, is by Act of
+Parliament referred to the King, it is underſtood to be done in ſome Court
+of Juſtice, according to the Law. And the opinion of <hi>Gaſcoine,</hi>
+Chiefe Juſtice, is notable in this point, that the King hath committed all
+his power judicall to divers Courts, ſome in one Court, ſome in another,
+&amp;c. and becauſe ſome Courts, as the Kings Bench, are <hi>Coram
+Rege,</hi> and ſome <hi>coram Juſticiariis,</hi> therefore the Act ſaith,
+by the commandernent of the King, or his Juſtices.</p>
+            <p>
+               <hi>Huſſey</hi> Chiefe Juſtice reported, that Sir <hi>John
+Markham</hi> ſaid to King <hi>Ed.</hi> 4. that the King could not arreſt
+any man for ſuſpition of Treaſon, or Fellony, as any of his Subjects
+might, becauſe if the King did wrong, the party could not have his action: if
+the King command me to arreſt a man, and according<g ref="char:EOLhyphen"/>ly I doe arreſt him, hee
+ſhall have his action of falſe impriſonment againſt me, albeit he was
+in the Kings preſence; reſolved by the whole Court in 16. <hi>H.</hi> 6.
+which authority might be a good warrant to defend his ſaid opinion to
+<hi>Ed.</hi> 4.</p>
+            <p>The words of the Statute of the 1 <hi>R.</hi> 2. <hi>chap.</hi>
+12. are, unleſſe it be by the Writ, or other commandement of the King; and
+it was reſolved by all the Judges of <hi>England,</hi> that the King cannot
+doe it by any commandement, but by Writ, or by order, or Rule of ſome of his
+Courts of Juſtice, where the cauſe dependeth.</p>
+            <p>And ſaith <hi>Bracton,</hi> the King can doe nothing, but what
+he can doe by Law; So as (ſaith the Lord <hi>Cooke</hi>) the command of the
+King, is as much as to ſay, as by the Kings Courts of juſtice; for all
+matters of Judicature, and procee<g ref="char:EOLhyphen"/>dings in Law, are diſtributed to the Courts
+of Juſtice, and the King doth judge by his Juſtices, 8 <hi>H.</hi> 4.
+<hi>fol.</hi> 19. <hi>&amp;</hi> 24. <hi>H.</hi> 8. <hi>chap.</hi> 12. and
+regularly no man ought to be attached by his body, but either by proces of Law,
+that is, (as hath been ſaid, by the Kings Writs, or by Indidctment, or
+lawfull warrant, as by many Acts of Parliament is manifeſtly inacted and
+declared, which are but expoſitions of <hi>Magna Charta,</hi> and all
+Statutes made contrary to <hi>Magna Charta,</hi> which is <hi>Lex terrae,</hi>
+from the making whereof untill 42 <hi>Ed.</hi> 3. are declared and inacted to
+be void, and therefore if this Act of <hi>Weſtminſter</hi> 1. concerning
+the extrajudiciall commandement of the King bee againſt <hi>Magna
+Charta,</hi> it is void, and all reſolutions of Judges concerning the
+co<g ref="char:cmbAbbrStroke">̄</g>mandement of the King, are to be underſtood of judiciall proceedings, a
+part inſti. fo. 186.187.)</p>
+            <p>Therefore Mr. Juſtice <hi>Bacon,</hi> it is to no purpoſe for
+you to tell me, I am committed by a higher Court, and therefore you cannot
+legally deliver mee, <pb n="23" facs="tcp:121769:13"/>for I aver unto you, and have already
+ſufficiently proved it, that I am commit<g ref="char:EOLhyphen"/>mitted contrary to Law and
+Juſtice, and therefore you being Judges of the Law, and not of Preſidents,
+grounded upon will and pleaſure; You are to take notice of nothing but Law,
+and therefore I demand and require my liber<g ref="char:EOLhyphen"/>ty at your hands, as my undoubted
+right and due by Law, which you can neither in juſtice, honour, nor
+conſcience deny unto me.</p>
+            <p>But admit the Lords to be a ſuperiour Court of juſtice to the
+Kings Bench in ſome caſes, yet if they walke beyond their bounds and limits
+ſet them by the Law, and meddle with that which by Law they have no
+Juriſdiction of, in that caſe they are no Court of Juſtice, either to you
+or me, but a company of deſpiſers and contemners of the Law; all whoſe
+actions and decrees made and done in ſuch caſes, are but meere affronts
+unto the Law, and unvalid and unbinding, either to you, or me, or any other man
+in <hi>England;</hi> in diſobedi<g ref="char:EOLhyphen"/>ence to which, they by Law are not capable
+of a contempt or affront, nor cannot legally puniſh any in ſuch a caſe,
+either with fine or impriſonment, as for inſtance.</p>
+            <p>Firſt, if a court of <hi>SESSIONS,</hi> (which is a Court in
+many caſes by Law) queſtions me for my Freehould, and I give them
+contemptuous words for medling with that which they have no Jurisdiction of,
+they by Law can neither fine nor impriſon me therefore.</p>
+            <p>Secondly, the ſame holds good in the <hi>COMMON PLEAS,</hi>
+which is an unqueſtionable adminiſtrative Court of Juſtice in divers
+caſes, yet if they go about to hold plea of murder before them, if the party
+refuſe to anſwere them, <hi>It is in Law no contempt of the Court,</hi> And
+if the Court ſhall therefore fine and impriſon him, <hi>it is illegall,
+erronious, and unbinding,</hi> becauſe in Law they have no Juriſdiction of
+ſuch caſes.</p>
+            <p>Thirdly, and pertinent to this purpoſe is <hi>BAGGS CASE,</hi>
+in the 11. Part of <hi>Cooks</hi> Reports, who being ſummoned before the
+<hi>Mayer of Plimoth.</hi> in open Court called him cozening Knave, and bade
+him come kiſſe, &amp;c. For which the Mayor Disfranchiſed him, and it was
+reſolved in Law, that the the Disfranchiſment was illegall, and <hi>the
+reaſon of is was, becauſe it was not according to Law,</hi> for that the
+Mayor in Law had no power to doe it.</p>
+            <p>Fourthly, ſutable to this is the complaint of <hi>ARCHBISHOP
+BAN<g ref="char:EOLhyphen"/>CROFT,</hi> and the Judges anſwer to it, which ſaid Archbiſhop in his
+22. Article to the Lords of the Privie Counſell, in the 3. of King
+<hi>James,</hi> complaines againſt the Judges of the Courts of Juſtice in
+Weſtminſter Hall, for affron<g ref="char:EOLhyphen"/>ting the actions, proceedings, and Cenſures
+of the <hi>High Commiſſion Court,</hi> which was erected by Act of
+Parliament, viz. 1 <hi>Eliz.</hi> and had <hi>power by King</hi> Iames <hi>his
+Letters Patents to Fine, and IMPRISON,</hi> and yet as he com<g ref="char:EOLhyphen"/>plaines, (as you
+may read 2 Part. inſtit. fo. 615. &amp; 4 Part. inſtit. fol. 335.) 
+<q rend="margQuotes">The Judges were growne to that innovating
+humor of late, that whereas certaine lewd perſons, <hi>(two for example)</hi>
+one for notorious Adultery, and <pb n="24" facs="tcp:121769:14"/>other intollerable
+contempts, and another for abuſing of a Biſhop of this Kingdome, by
+threatning ſpeeches, and ſundry rayling tearmes, no way to be endured, were
+thereupon fined and impriſoned by the High Commiſſio<g ref="char:EOLhyphen"/>ners, till they
+ſhould enter into bonds to performe further orders of the ſaid Court, the
+one was delivered by <hi>HABEAS CORPVS</hi> out of the Kings Bench, and the
+other by a WRIT out of the Common Pleas, and ſun<g ref="char:EOLhyphen"/>dry other prohibition have
+been likewiſe awarded to His <hi>Majeſties</hi> ſaid Com<g ref="char:EOLhyphen"/>miſſioners
+upon theſe ſuggeſtions, that they had no authority to fine or impri<g ref="char:EOLhyphen"/>ſon
+any man, &amp;c.</q>
+            </p>
+            <p>Which practices and doings the Judges in their anſwers
+thereunto, juſtifie to be legall, <hi>and no more then that which they are
+bound unto by their Oath,</hi> for that the high Commiſſion had gone beyond
+the legall power of their juriſdiction, having no power by law to fine and
+impriſon in thoſe caſes; and therefore, <hi>the Law, being the ſureſt
+Sanctuary, that a man can take, and the ſtrongeſt fortreſſe to protect
+the weakeſt of all, it ought not to be denied to the meaneſt man that
+demands it, againſt the greateſt ſeeming legall oppreſſor,</hi> that
+act of violence or wrong, <hi>be<g ref="char:EOLhyphen"/>ing moſt hatefull of all others, when it is
+done by uncontinuance of juſtice,</hi> and there<g ref="char:EOLhyphen"/>fore that man which legally
+indeavours deliverance from it, ought from the judges of the Law by <hi>Magna
+Charta, to have it freely without ſale, fully without any deniall, and
+ſpeedily without delay,</hi> in which regard the aforeſaid Judges, did not
+only juſtifie their forementioned legall practice, but alſo fall very foule
+up<g ref="char:EOLhyphen"/>on the Arch-Biſhop &amp;c. <hi>for taxing the Judges and Iuſtice of the
+Kingdom, confi<g ref="char:EOLhyphen"/>dently aver<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing, that for leſſe ſcandalls then his, &amp;c. in taxing the
+Iuſtice of the Kin<g ref="char:EOLhyphen"/>dow, divers have been ſeverely puniſhed,</hi> And Sir
+<hi>Edward Cooke</hi> in the 4 part of his inſtitutes, Chap. of the high
+Commiſſion Court, in cauſes Eccleſiaſticall, fo. 331.332.333.334 335.
+inſtances divers others, that for notable Eccleſiaſticall crimes,
+<hi>were fined and impriſoned by the high Commiſſioners,</hi> and upon
+demanding their right from the Judges of the Courts of Juſtice in
+<hi>Weſlminſter</hi> Hall, <hi>they were re<g ref="char:EOLhyphen"/>lieved and releaſed by them,
+by the ſtrength of thoſe nerves and ſinewes of the Law Prohibitions and
+Habeas Corpuſſes.</hi>
+            </p>
+            <p>But above all the reſt that he there menſions, <hi>Iohn
+Simpſons</hi> caſe in the 42. <hi>Eliz.</hi> is the moſt remarkable to my
+purpoſe, which <hi>Simpſon</hi> being accuſed for com<g ref="char:EOLhyphen"/>mitting adultery
+with the Wife of <hi>Edward Fuſte</hi> (over which caſe by Law the high
+Commiſſioners had Iurisdiction) <hi>whereupon the high Commiſſioners
+iſſued out there warrent to Richard Butler Conſtable of Aldrington in the
+County</hi> of <hi>Nor<g ref="char:EOLhyphen"/>thamton, for attaching and arreſting of the body of
+the ſaid Simpſon, which in Law is an impriſonment upon the attachment of
+his body, and the Conſtable takes on</hi> Willi<g ref="char:EOLhyphen"/>am Iohnſon <hi>ſervant of
+the ſaid F<g ref="char:V">Ʋ</g>STE to aſſiſt him in the ſerving of his Warrant which
+warrrant the Coxſtable ſerved upon him and read it unto him,
+notwithſtand<g ref="char:EOLhyphen"/>ing the Said SIMPSON reſiſted him, and in his owne dofence
+(ſhewed him) ſlew the the ſaid Iohnſon, that came in aide of the ſaid
+Conſtables, for which he was as a wil<g ref="char:EOLhyphen"/>full <pb n="25" facs="tcp:121769:14"/>murderer,
+Committed to Northampton Goale, and indicted before the Judge by the coroners
+inqueſt of wilfull murder, ſuppoſeing the ſaid Warrant to Lawfull, but
+the matter being very mighty, the Juſtices of aſſiſe thought not good
+to proceed a<g ref="char:EOLhyphen"/>gainſt him at thoſe aſſiſes but deferred it till the
+next aſſiſes, at what time after this long time of deliberation, and upon
+conference with other judges of the law it was re<g ref="char:EOLhyphen"/>ſolved, that the</hi>
+ſtatute of the 1 <hi>Eliz.</hi> gave no power to the high commiſſioners
+to make any warrant to arreſt the body of Simpſon in that caſe, but that
+they ought to have proceeded by citation, 
+<q rend="margQuotes">And therefore going beyond there legall
+power (although by the Queens letters patents, expreſſe authority is given
+to the high comiſſioners to ſend for the body of any offender, &amp;c.)
+<hi>Simpſon</hi> in killing the ſaid <hi>IOHNSON,</hi> had committed no
+wilfull murder, but only de<g ref="char:EOLhyphen"/>fended himſelfe and his liberties, and ſo it
+was found by the Jury, &amp; he acquit<g ref="char:EOLhyphen"/>ted of murder.</q>
+            </p>
+            <p>From all which I obſerve, firſt, that all <hi>Iudges</hi> of
+all Courts of Juſtice in <hi>England,</hi> are bound toact within the
+compaſſe of there juriſdiction given them by Law.</p>
+            <p n="2">2 I obſerve that the <hi>Iudges</hi> of any Court going
+beyond their legall Iuriſdicti<g ref="char:EOLhyphen"/>on, may, and ought by Law to be reſiſted,
+which reſiſtance is no contempt of the law, not puniſhable by it.</p>
+            <p n="3">3 That the <hi>Iudges</hi> of the Law, are bound in duty and
+concience by Law <hi>to judge all cauſes that comes before them according to
+Law,</hi> which both the ſingle or<g ref="char:EOLhyphen"/>der of the Lords, and the ſingle order
+of the Commons, is inferiour, or in ſubor<g ref="char:EOLhyphen"/>dination unto, as well as the
+royall letters pattents of <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>King</hi> or <hi>Queen,</hi> which yet thoſe <hi>Noble
+Iudges</hi> according to Law, threw behind their backs, and acquit<g ref="char:EOLhyphen"/>ted the
+ſaid <hi>SIMPSON</hi> of Murder, inkilling of <hi>IONHSON</hi> in his doing
+actions in purſuance, and by vertue of the authority of the ſaid Letters
+Pattents, <hi>And therefore much more ought you to acquit and ſet my body at
+liberty without a<g ref="char:EOLhyphen"/>ny more adoe from the Lords</hi> 7. <hi>yeares
+impriſonment,</hi> being their impriſonment of me, though grounded upon
+their decree or Judgement, is contrary to the expreſſe declared and
+conſtant received fundamentall Lawes of <hi>England,</hi> and though di<g ref="char:EOLhyphen"/>vers
+men in former ages, have been ſo ſottiſh or fearfull, to part with their
+legall Liberties to the Lords, <hi>and have ſtooped unto their Iudgements,
+Orders and Decrees,</hi> yet that is no prejudice or hinderance unto me, from
+the injoyment of mine, who now demands them at your hands as my right by
+Law.</p>
+            <p n="4">4. And laſtly, ſeeing as is before undeniably proved,
+that the King <hi>(the Major)</hi> is the primitive, and the Lords <hi>(the
+Minor)</hi> are but the derivative and ſeeing it is before alſo fully
+proved, that the Letters Pattents of the King, <hi>the primative,</hi> is not
+to be ſet in compitition with the Law, it will ſtrongly and undeniably
+fol<g ref="char:EOLhyphen"/>low, that the orders of the <hi>ſingle Lords,</hi> who are but the
+<hi>derivitive,</hi> cannot keepe me in priſon contrary to the Law; but that
+they ought by you without any fur<g ref="char:EOLhyphen"/>ther delay, being illegall in themſelves to
+be judged ſo by you, <hi>as well as the King <pb n="26" facs="tcp:121769:15"/>or Queenes
+Letters Patents, were by your predeceſſours,</hi> and my body by you to be
+ſet at liberty, though it hath ſeemingly affronted their orders, as well as
+the life of the ſaid <hi>SIMPSON,</hi> was ſaved by your predeceſſours,
+although he had ſlaine the ſaid <hi>IOHNSON</hi> in affront of their
+ſuperiours Letters Patents, and not to neceſſitate me for my reliefe and
+preſervation to <hi>SIMPSONS</hi> remedy, which though bloody in it ſelfe,
+yet is juſtifiable by Law and reaſon, <hi>by which I may de<g ref="char:EOLhyphen"/>fend my
+liberties and life,</hi> againſt all <hi>thoſe that in the executing of
+urjuſt illegall or<g ref="char:EOLhyphen"/>ders and decries would rob me of them</hi> and if in my
+own defence to ſave my life, I be neceſſitated and compelled to deſtroy
+him or them, that without Law would keep me in priſon, and ſo deſtroy me
+by famine, or by ſickneſſe &amp;c. his life be upon his owne ſcore, for
+in ſuch a caſe I am free from his Blood, <hi>and there<g ref="char:EOLhyphen"/>fore Mr. Iuſtice
+Bacon</hi> to wind up all, I ſhall conclude in the words of <hi>learned Sir
+Edward Cooke</hi> in his epilogue to the 4 part of this inſtitutes which I
+read thur.</p>
+            <p>
+               <q rend="margQuotes">And you honourable and reverent Judges
+that do ſit in the high tribunals and courts or ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ates of Juſtice, feare not to do right to all,
+and to deliver your oppinions Iuſtly according to the Laws: for feare is
+nothing but a betraying of the ſuccors that reaſon ſhould afford. And if
+you ſhall ſincerely execute Juſtice, be aſſured of three
+things.</q>
+            </p>
+            <p>
+               <q rend="margQuotes">Firſt, though ſome may maligne you,
+yet God will give you his bleſſing.</q>
+            </p>
+            <p>
+               <q rend="margQuotes">Secondly, that though thereby you may
+offend great men and favourites, yet you ſhall have the favourable
+kindneſſe of the Almighty, and be his fa<g ref="char:EOLhyphen"/>vourites,</q>
+            </p>
+            <p>
+               <q rend="margQuotes">And laſtly, that in ſo doing,
+againſt all ſcandalous complaints, and pragma<g ref="char:EOLhyphen"/>ticall deviſes againſt
+you, God will defend you as with a ſhield; for the Lord will give a
+bleſſing unto the righteous, and with his favourable kindneſſe he will
+defend him as with a ſhield.</q>
+            </p>
+            <p>And now dear Sir, having done with my ſet ſpeech, being often
+as before I de<g ref="char:EOLhyphen"/>clare, interrupted by both the Judges, and compelled to skip
+over divers remark<g ref="char:EOLhyphen"/>able things in it, as I have before alſo noted and
+declared, which in my judgement was not fairely not juſtly done of the Judges
+unto me, who ought to have given me freedom of ſpeech,<note n="*" place="margin">As the Lords in 1641. did give me, and the Commons in
+<hi>Ian.</hi> laſt, as you May reade in my <hi>Whip for the Lords,</hi> pag.
+10. 11. 19.</note> and then to have judged what I ſaid; ſo as ſoone as I
+had done with a conge made unto them both, (though I confeſſe I ſpoke
+moſt commonly to Mr. Juſtice <hi>Bacon,</hi> be<g ref="char:EOLhyphen"/>cauſe I judged him to be
+the corum; or the ſeni<g ref="char:EOLhyphen"/>or) I ſaid now Sir, I have done, and ſhall
+ſubmit what I have said and pleaded unto your Judge<g ref="char:EOLhyphen"/>ments and Conſciences,
+deſiring that if you conceive the buſineſſe to be of that weight, that
+it requires any more debate, that you will take the time of 2. or 3. 
+<pb n="27" facs="tcp:121769:15"/>ſeriouſly to conſider of it: whereupon Judge
+<hi>Bacon</hi> asked me, if I had any coun<g ref="char:EOLhyphen"/>ſell to maintain what I had
+ſaid, and I told him no, neither did I need any; for I was able enough my
+ſelf to do it, and did offer him not only in Law, but with my life to make it
+good; profeſſing unto him, that I was very conſident, that Lawyer was not
+<hi>in England,</hi> that durſt, or would ſay, one quarter of that for me,
+that now before them I had ſaid for my ſelf, becauſe my adverſaries
+were tranſcendantly pocent, who by their wills and pleaſures, had in ſome
+kind de<g ref="char:EOLhyphen"/>ſtroyed men of more power and greatneſſe, then all the Lawyers at
+the Bar; and therefore Sir, though I am acquainted with ſome Lawyers, that
+ſometimes plead at this Bar. yet peradventure, my reſpects and obligations
+may be ſuch un<g ref="char:EOLhyphen"/>to them, <hi>that it cannot ſtand with honour, juſtice, or
+conſcience, for me to deſire them to plead my cauſe,</hi> ſeeing I am
+confident, they cannot do it with ſafety, and for me to expect that from
+them, or put that upon them, that in mine owne conſcience I do verily believe
+will be their ruine in their practiſe and lively hoods, when I am not able in
+any reaſonable manner to requite them, I ſhould in my owne thoughts, render
+my ſelfe the baſeſt and unworthieſſ of men.</p>
+            <p>Whereupon Mr. Juſtice <hi>Bacon,</hi> begun to ſpeake and to
+make a kind of re<g ref="char:EOLhyphen"/>ply or anſwer, unto divers of the things I had infiſted
+upon, and told me, that Sir <hi>Edward Cooke,</hi> in the 4. Part of his
+inſtituts, whom he did ſee I had very much ſtudied, ſaith, <hi>That no
+inferiour Court could meddle to queſtion Judgements of Parliament,</hi> and
+after a pretty large ſpeech, told me, <hi>I was committed upon a centence
+from a Superiour Court, whoſe judgements by Law, they neither were able, nor
+could controule,</hi> and therefore muſt of neceſſity remand me back
+again, and after he had done, I replyed, Sir, it is true, the Judgements of
+Parlia<g ref="char:EOLhyphen"/>ment is not to be queſtioned by inferiour Courts, alwaies provided,
+they med<g ref="char:EOLhyphen"/>dle with that, which by Law appertaines to the Judgement of the
+Parliament, which the executing of Lawes, in the Originall Judgeing and
+deſiding of de<g ref="char:EOLhyphen"/>ferences doth not the leaſt; And beſides, Mr. Juſtice
+<hi>Bacon,</hi> you doe not, I hope, in Law Judge the <hi>Lords Houſe</hi>
+ſingly, or the <hi>Houſe of Commons</hi> ſingle, to be the Parliament;
+true it is ſir, ſeverall ſtatutes in Queene <hi>Elizabeths</hi> time, as
+the 27. Chap. 8. &amp; 31. ch. 1. provides, <hi>That if any find himſelfe
+agreeved by falſe judgements in the inferior Courts, he ſhall, if he
+pleaſe, by a Writ of Error, ſue in the high Court of Parliament</hi> (which
+I cannot be<g ref="char:EOLhyphen"/>leeve in Law is meant the Lords Houſe<note n="*⁎*" place="margin">And it is the moſt irrationall thing in the world, to ſay,
+that legally no Law can be binding, but that which is made by the con<g ref="char:EOLhyphen"/>ſent of
+the King, Lords and Commons; and yet to prefor a ſingle judgement of the
+Lords, made without all forme, ſhaddow, colour or pretence of Law; above all
+the Acts of Par<g ref="char:EOLhyphen"/>liament made for 3. or 400. yeares together, for this I will
+offer to all the Lawyers in <hi>England,</hi> and challeng them, to ſhew me
+one Statute, or a peece of a Statute, to juſtifie the Lords proceedings
+againſt me in Law, and I will be willing to loſe my head, and to bee cut in
+ten thouſand peeces; and beſides, it is moſt irrationall for the Lords,
+who never pertended to any power, but what they deri<g ref="char:EOLhyphen"/>ved from the King, to
+immagine or go about to make the world beleeve, that they can by their wills
+deſtroy all the Lawes of <hi>England,</hi> (as in their dealing with me they
+have done) when the King their fountain of power, can doe no Judiciall action,
+but by his Courts of Juſtice; and that in the legall method, manner, or
+proceſſe of the Law (although by Law a thouſand times more is given and
+inſtated into him, then unto all the Lords of <hi>England</hi>) and for the
+truth of this, ſee the 2. <hi>part inſt. f.</hi> 168, 186. 187). yea, if
+the King im<g ref="char:EOLhyphen"/>priſon me illegally by his owne Warrant, ei<g ref="char:EOLhyphen"/>ther in matter or
+form, I have my remedy a<g ref="char:EOLhyphen"/>gainſt him at law, as appears by the Act that
+aboliſhed the Star-Chamber; and therefore, it is the height of erationally,
+to conceive, or ſay, that the Lords will, ſhall be Lord
+<hi>Para<g ref="char:EOLhyphen"/>mount,</hi> above the will of the King, their Fountain and Creator,
+and the power of the Law, which is above Him, from whom they derive all they
+have, or can pretend vnto; and I am ſure the law tells me, that in the Courts
+of Juſtice, which is eſtabliſhed and bounded by the law, and is
+adminiſtred, adjudged, and executed by ſundry Judges and Miniſters of the
+Law, is betruſted a full and ample power, for tryall of property of lands and
+goods, and for the conſervation of the people of this Realm in peace and
+quietneſſe; but I am ſure by the Judges remitting of me back to priſon
+there is a failer of Juſtice (which the Law abhors) and an inſufficiency in
+the Law to deliver me from deſtruction, by luſt, will and pleaſure, and
+therefore without diſpute ſlaves are the people of <hi>Eng.</hi> in the
+higheſt and ſlaves they muſt continue, if they ſpedily rouſe not up
+their ſpirits &amp; ſtand ſtifly for their rights.</note> ſingle)
+<hi>for the fur<g ref="char:EOLhyphen"/>ther and due examination of the ſaid judgement, in ſuch
+manner, <pb n="28" facs="tcp:121769:16"/>as is uſed in erroneous judgments in the Court of
+Kings Bench;</hi> but the law gives not the Par<g ref="char:EOLhyphen"/>liament, much leſſe the
+ſingle Houſe of Lords, the leaſt cogni<g ref="char:EOLhyphen"/>zance in the world, originally to
+meddle with any thing betwixt party and party, and if they doe, I am ſure by
+the law in force at this day, it is <hi>corum non judicii;</hi> but the Lords
+originally ſum<g ref="char:EOLhyphen"/>moned me to their Bar, <hi>be for a<g ref="char:EOLhyphen"/>ny charge exhibited, or
+any in<g ref="char:EOLhyphen"/>dictment proferred, or any viſi<g ref="char:EOLhyphen"/>ble complanant or proſecutor
+ap<g ref="char:EOLhyphen"/>pearing, and their high commiſſion and Span<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quiſition-like, exa<g ref="char:EOLhyphen"/>mined me upon
+interrogatories,</hi> and ſo committed me to priſon, for which they have no
+ſhadow of ground in law: Whereupon Mr. Juſtice <hi>Roll</hi> ſtept up,
+&amp; con<g ref="char:EOLhyphen"/>firmed that which his Brother <hi>Bacon</hi> had already ſaid,
+telling me, that the Chancery, and the Court of Admirals proceedings were
+diverſe from thoſe ſtatutes I had alleadged, as well as the proceedings
+in Parliament were, and yet were <hi>Lex terrae,</hi> and it is poſitively
+(ſaid he) the law of the <hi>Land,</hi> that an inferiour court as ours is,
+cannot reverſe the judgment of a ſuperiour Court, as the <hi>Lords</hi>
+are, which we muſt of neceſſity do, if we ſhould re<g ref="char:EOLhyphen"/>leaſe you, which
+we cannot doe if we would, without medling with the merit of the cauſe from
+the beginning, and then the way ought to be by writ of Errour, which ſaid he
+will not <pb n="29" facs="tcp:121769:16"/>lye in this Court, in a Judgment given in the
+<hi>Lords</hi> Houſe; and therefore you muſt reſt content, &amp; it had
+been well for you, you had pleaded theſe things before the Lords in your plea
+there a<g ref="char:EOLhyphen"/>aginſt their juriſdiction; Sir, ſaid I, I did ſo, and they
+ſent me to priſon therfore, &amp; not only ſo, but in Newgate cloſe
+impriſoned me therefore, and <hi>would not ſuffer my; wife to come into the
+Priſon yard, ſo much as to ſpeak with me;</hi> I alſo appealed to the
+Houſe of Commons: and ſolely put my ſelfe upon their Juſtice and
+Judgement, but I ſound them, for almoſt theſe two years together deaf,
+both un<g ref="char:EOLhyphen"/>to Juſtice, Law and reaſon; and now as my laſt legall refuge, I
+come to you, after I have been almoſt two years in Priſon for nothing, as
+clearely appeares by the whole return, <hi>which only conſiſts in generals,
+&amp; generals are no crim<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+in Law;</hi> there<g ref="char:EOLhyphen"/>fore Sir, J beſeech you, tell me whether the Law of
+<hi>England</hi> be ſo imperfect, that it hath provided no remedy, to
+preſerve a man from deſtruction, by luſt, will and pleaſure, but if it
+have not, then Sir, I muſt ingenuouſly tell you, ſo much am I an
+<hi>Engliſhman,</hi> and free from the principals of ſlavery, that though I
+have ſuffered, and undergone with ſome kind of patience, almoſt two
+yeares impriſonment, without any cauſe, but onely by the power of luſt,
+will, and pleaſure, that I profeſſe before you both, and this whole
+auditory, that were I this day put to my choiſe, I had rather chuſe to
+combate one by one, with 20. of the ſtouteſt men that ſteps upon
+<hi>Engliſh</hi> ground, though I were ſure to bee cut in a thouſand
+pieces thereby, then willingly to be Captived in Priſon, two yeares longer,
+by the power of Luſt, will and pleaſure, without the hopes of any remedy
+but from thoſe that tyrannize over mee, <hi>FOR TO BE A SLAVE IS BELOWE ME,
+or any man that is a man,</hi> but if this be good Law which you, declare unto
+me then, <hi>perfect ſlaves are we indeed.</hi>
+            </p>
+            <p>Again Sir, is for that Law of Parliament you talk of, I had
+thought <hi>Eng<g ref="char:EOLhyphen"/>land</hi> had had but one Law to be governd by, &amp; hat that
+had bin a viſible and a declared Law, and <hi>not a Law in mens breaſts,
+not to be knowne till they pleaſe to declare it, and then when they do, it
+ſhall every day croſſe it ſelf, and ebbe and ſlow ac<g ref="char:EOLhyphen"/>cording to
+ſucceſſe.</hi> Sir, this is no Law at all, and therefore, here can bee no
+tranſgreſſion againſt it, <hi>but if you mean a Law in being, but yet
+kept ſo cloſe in holes and corners that none can come to ſee it, or read
+it, but only the executors of it,</hi> this is as bad as no Law at all, and as
+good living in Turky, as under ſuch an unknown Law: But Sir, to lay aſide
+all theſe dubious diſputes about Ju<g ref="char:EOLhyphen"/>riſdiction, and Parliament Laws,
+<hi>and Laws in the ordinary Courts of Juſtice;</hi> and ſuppoſe the
+Lords have a power of Juriſdiction in the preſent caſe to ſentence me,
+if really I had committed a crime, and ſuppoſe (but no more) that you are
+an inferiour Court, and cannot legally reverſe or take cognizance of 
+<pb n="31" facs="tcp:121769:17"/>their Judgments, yet I deſire to keep you cloſe to my
+return, <hi>which ſhew, clear<g ref="char:EOLhyphen"/>ly, that I am impriſoned for nothing, and
+thereby rondred an innocent and juſt man,</hi> and therefore I demand
+poſitively your judgments in that, whether it be ſo or no; <hi>And
+ſecondly, whether the Law hath not provided a remedy for me, and for my
+deliverance from under any power in England, in caſe I be impriſoned by
+them for nothing;</hi> unto which, as I remember, both the Judges ſpoke to it
+in the fore<g ref="char:EOLhyphen"/>going manner, and if I wrong them not (which I would be very leath
+to do) in the concluſion of their ſpaeches, <hi>both of them ingenuonſly
+confeſſed, that by my return it did appear. I was impriſoned without any
+crime in law, laid unto my charge, but yet being committed by a ſuperiour
+Court the Lords, and that upon a ſentence they could not in Law relieve
+me.</hi> Whereupon I earneſtly preſſed to be heard but a few words more,
+which was granted, and I very ſoberly ſaid, <hi>Mr. Juſtice Bacon, I have
+been forth in ſervice to fight for the Laws and Liberties of England,
+againſt thoſe men that the Parliament made me and divers others believe,
+would have deſtroyed them, and I was</hi> I <hi>confeſſe, very zealous to
+preſſe others to do as</hi> I <hi>did;</hi> But Sir, had it then been told
+me by thoſe that ſet me at work, or had I in my own breaſt believed i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that the iſſus of all our
+fightings ſhould have beene contured in making the people of the Kingdom
+ſlaves, <hi>or that all our fighting ſhould have contributed to nothing
+ſo much, as to inable a company of men ſitting here at Weſtminſter,
+called</hi> LORDS and COMMONS, <hi>arbytrarily by their luſts, wils, and
+pleaſures, to have raigned and ruled over us,</hi> I <hi>would have been ſo
+far from killing of</hi> Cavaſeers, <hi>that</hi> I <hi>would rather with my
+own hand; have beene my own executioner, then to have murdered men to
+ſatisfie the luſts of others:</hi> But ſeeing it is as it is, and that I
+have been ſo groſly miſtaken in theſe mens pro<g ref="char:EOLhyphen"/>miſes, oathes,
+Declarations, and ingagements, which now <hi>they judge as nothing, but have
+throwns them all behind their backes,</hi> I ſhall recant my error in
+be<g ref="char:EOLhyphen"/>leeving of them, and perſwading others to doe i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and ſhall deſire to be ſet<g ref="char:EOLhyphen"/>led in that
+which is truth, which is now to beleeve them noemore, and in<g ref="char:EOLhyphen"/>ſtead of being
+zelous to provoke the People to ſtand up for there Lawes at their commands, 
+<q rend="margQuotes">I ſhall be very ſorry for that error
+or miſtake, or I cleare<g ref="char:EOLhyphen"/>ly ſee thore is none in <hi>England</hi> of any
+more ſtrength then a piece of ſoft wax, nor the People by there great
+Lordly promiſes, were never intended other then to be Vaſſels, and
+ſlave,</q>
+               <note n="*" place="margin">Yea the moſt miſerabliſt of
+ſlaves, b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing firſt in
+ſabjection to a Statute Law, and if they tranſgreſſe that, then the
+Judges of the Law are ready to diſtroy both life, and E<g ref="char:EOLhyphen"/>ſtate therefore;
+ſecondly, to a Law of Ordi<g ref="char:EOLhyphen"/>nances, and if they tranſgeſſe that which is
+ſufficiently contradicttory in it ſelfe, then they ſhall by one Arbitrary
+Committee, or o<g ref="char:EOLhyphen"/>ther hazard, the loſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of all they have, with out any witneſſes
+ſworne againſt them, or any Jury pinnelld, or it may be any complaint in
+writting preferrd againſt them, but they ſhall be diſtroyed by the will,
+and deſcration of the Committes, for ſuch proceedings contrary to the
+fundamentall Law of the Land, both <hi>Dud<g ref="char:EOLhyphen"/>ley</hi> and <hi>E<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſon</hi> Privie Cou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cellers, were hanged, though they
+had an Act of Parliament to authe<g ref="char:EOLhyphen"/>rize their doings, as appears 2. part.
+inſti. fo. 51.3. part inſti. fo. 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. and 4. part. inſti. fo. 41.196.197.198. but yet if a man be
+never ſo obſervi<g ref="char:EOLhyphen"/>ant of both the Law, and Parliament Ordinan<g ref="char:EOLhyphen"/>ces, yet
+thirdly, Parliament Lords and Com<g ref="char:EOLhyphen"/>mons have a Law paramount above them both,
+and which as pleaſure ſhall null them both, and neither of them ſhall be
+any protection unto you, and that it their law of will, luſt and plea<g ref="char:EOLhyphen"/>ſure,
+more exerciſed &amp; put in uſe by them,, then both the former; ſo that
+of neceſſi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie ſlaves in
+the higheſt are all <hi>Engliſhmen,</hi> now being under 3. diſtinct
+Lawes for their deſtruction; but can in<g ref="char:EOLhyphen"/>joy the benefit of never a one, for
+their preſervation, and therefore for the Par<g ref="char:EOLhyphen"/>liament to make Judges of the
+Law, to executed, is but a mooking and chea<g ref="char:EOLhyphen"/>ting of the people; for they have
+left them none to execute, but have ſuperſe<g ref="char:EOLhyphen"/>ded it every line, with the Law
+of thir luſts, wills, and pleaſures, for all their lying promiſes in all
+their Declarations to the contrary, &amp; therefore all ye true hatted
+<hi>Engliſhmen,</hi> awake, awake, &amp; looke wel about before the midnight
+of ſlave<g ref="char:EOLhyphen"/>ry ſeaſe upon you.</note> 
+               <q rend="margQuotes">and therefore Sir, I ſhall now convert
+all my zeale, to preſſe all the Com<g ref="char:EOLhyphen"/>mons of <hi>England</hi> out of all the
+Counties thereof, to ha<g ref="char:EOLhyphen"/>ſten up to Weſtminſter to the Lords Houſe, and
+there at their dore ſuſſer the Lordn to <pb n="23" facs="tcp:121769:17"/>bore them
+through their cares as their Vaſſ is and ſlaves, being heir actions
+clearly and dayly de<g ref="char:EOLhyphen"/>clare, they never intended them any freedom, Law, or
+Juſtice, and abſolutely it is a vaine thing, and time meerely loſt from
+their hands to expect any;</q> ſo Judge <hi>Roll,</hi> concluded and ſaid
+they were upon their Oathes, and as Judges of the Law, they could do no other
+bat remand me to priſon againe, unto which ipaciently ſtooped, and came
+away, but had much ados to get out of the Hall, by reaſon of the
+extraordinary crowde.</p>
+            <p>And the next day ſending to ſee what was entered in the booke
+about me, the Clarke or Regeſter ſents me a paper in theſe words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="paper">
+                        <opener>
+                           <dateline>
+                              <date>Munday after five weekes of Eaſter
+in the 24. of King <hi>Charles.</hi>
+                              </date> Tower of
+London.</dateline>
+                        </opener>
+                        <p>
+                           <hi>Iohn Lilburne Gentleman brought here into the Court
+upon an Habe<g ref="char:EOLhyphen"/>as Corpus, by</hi> Robert Titchburne <hi>Eſquire, Lieutenant of
+the Tower of</hi> London, <hi>and the returne of the ſaid</hi> Habeas Corpus,
+<hi>being read, he being commit<g ref="char:EOLhyphen"/>ted by the Lords and Commons in this Parliament
+of</hi> England <hi>aſſembled, it is order<g ref="char:EOLhyphen"/>ed that he ſhall be
+remitted.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>O ſuperlative Juſtice, was ever any man committed or remanded
+to priſon before? by thoſe Judges that in open Court declare he hath been
+alrea<g ref="char:EOLhyphen"/>dy almoſt 2. yeares in priſon for nothing? and now alſo they have
+no crime to lay to his charge, which is my caſe; but to draw to a
+conclu<g ref="char:EOLhyphen"/>ſion, I deſire to fulfill my promiſe, and give you a ſight, of
+the returne which thus followeth.</p>
+            <pb facs="tcp:121769:18"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>J Robert Titchbourne</hi> Eſquire, Keeper of the Tower of
+<hi>London,</hi> according to a ſhore Writ of our Lord the King, to this
+ſcedule annexed, certifie, That <hi>Iohn Lilbourne</hi> Gentleman, in the
+ſaid Writ mentioned, was committed, and is de<g ref="char:EOLhyphen"/>tained in my cuſtody, by
+vertue of an Order made the eleveth day of <hi>Iuly,</hi> 1646 by the Lords in
+the preſent Parliament of <hi>England,</hi> aſſembled, and then
+ſitting, the tenour and ſcope of which Order followeth in theſe
+words.</p>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="writ">
+                              <opener>
+                                 <dateline>
+                                    <hi>Die Sabbati undecimo</hi> 
+                                    <date>
+                                       <hi>Iulii.</hi> 1646.</date>
+                                 </dateline>
+                              </opener>
+                              <p>ORdered by the Lords in Parl. aſſembled, That
+<hi>John Lilburn</hi> (being ſenten<g ref="char:EOLhyphen"/>ced by this Houſe) ſhall for his high
+contempt and miſdemeanour done to this high Court, according to the ſaid
+ſentence, ſtand committed to the Tower of <hi>London,</hi> for the ſpace
+of 7. yeares next after the date hereof. And that the Liou<g ref="char:EOLhyphen"/>tenant of the ſaid
+Tower of <hi>London,</hi> his deputy or deputies are to keepe him in ſafe
+cuſtody accordingly; And that he do take care that the ſaid L. C. <hi>John.
+Lilburn</hi> do neither contrive, publiſh, or ſptead any ſeditious or
+libellous Pamph lets, a<g ref="char:EOLhyphen"/>gainſt both or either Houſes of Parliament.</p>
+                              <closer>
+                                 <signed>
+                                    <hi>Iohn Brawne, Cler.
+Parl.</hi>
+                                 </signed>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="order">
+                              <head>To the Lieutenant of the Tower of
+<hi>London,</hi> his Deputy or Deputies.</head>
+                              <p>And further I certifie our Lord the King, that
+afterward, to wit, upon the 18. day of <hi>Ian.</hi> 1647. It was ordained by
+the Commons in the ſaid Parl. aſſembled, as followeth in theſe words.
+<q>
+                                    <hi>Die Martis</hi> 18. <hi>Ian.</hi> 1647. Reſolved &amp;c. That the
+Li<g ref="char:EOLhyphen"/>cutenant of the Tower be hereby required to bring up to the Bar of this
+Houſe, to morrow morning at nine of the Clock L. Coll. <hi>Iohn
+Lilburne,</hi> his Priſoner.</q>
+                              </p>
+                              <closer>
+                                 <signed>
+                                    <hi>Hen. Elſynge, Clar. Parl. D.
+Com.</hi>
+                                 </signed>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <p>By vertue of which, I the ſaid <hi>Rob: Tichbourn</hi> the
+ſaid <hi>Iohn Lilbourn</hi> brought up to the laid Houſe of Commons in the
+ſaid Parl aſſembled, by wh<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> after<g ref="char:EOLhyphen"/>ward, the ſaid <hi>Iohn Lilburne</hi> was againe committed,
+to wit, upon the 19. day of Jan. 1647. to my cuſtody, and in like manner is
+detained by vertue of an or<g ref="char:EOLhyphen"/>der made by the ſaid Commons in Parliament
+aſſembled, the tenour of which order followeth in theſe words.</p>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="order">
+                              <div type="body_of_order">
+                                 <p>By vertue of an Order of the Houſe of Common,
+theſe are to require you to re<g ref="char:EOLhyphen"/>ceive from the Sergeant at Armes, or his
+Debutie. the body of L. Col <hi>John Lil<g ref="char:EOLhyphen"/>bourne,</hi> into the Tower of
+<hi>London,</hi> and him there to detaine in ſafe Cuſtody, as your
+Priſoner, in Order to his tryall according to Law, be being committed for
+treaſonable and ſeditions practices againſt the ſtate, and for ſo
+doing, this ſhall be your warrant.</p>
+                                 <closer>
+                                    <dateline>Dated <date>
+                                          <hi>Jan.</hi> 19. 1647.</date>
+                                    </dateline>
+                                    <signed>
+                                       <hi>Wil. Lenthall</hi> Sp<gap reason="illegible" resp="#OXF" extent="5 letters">
+                                          <desc>•••••</desc>
+                                       </gap>.</signed>
+                                 </closer>
+                              </div>
+                              <div type="warrant">
+                                 <head>To the Lieutenant of the Tower of
+<hi>London.</hi>
+                                 </head>
+                                 <p>The ſaid <hi>Iohn Lilburn</hi> is alſo detained in
+my Cuſtodie, by vertue of another Order made by the ſaid Co<g ref="char:cmbAbbrStroke">̄</g>mons in the
+ſaid Parl, aſſembled, the tenour of which Order follovveth intheſe
+words <hi>Die Martis</hi> 18 <hi>April.</hi> 1648. Reſolved, &amp;c that the
+4. Aldermen of <hi>London,</hi> Col <hi>Lilburne for Iohn May and,</hi> do
+continue in the Tovvervv thout being removed from thence.</p>
+                                 <signed>
+                                    <hi>H. Elſing. Cler. Parl. D.</hi> C.</signed>
+                              </div>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <p>Theſe are the cauſes of the keeping and detaining
+the ſaid <hi>Iohn Lilburne</hi> in my enſtody, whoſe bodie before our
+Lord the King, at the day and place in the ſaid vvrit contained, I have
+ready, as by the ſaid vvrit is commanded</p>
+                  <closer>
+                     <signed>Robert Titchburne Keeper of the
+Tovver of <hi>Lonodn.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <closer>
+               <salute>So deare friend, with my ſervice preſented to you,</salute>
+I reſt, 
+<signed>yours faithfully, John Lilburne.</signed>
+               <dateline>
+                  <hi>Tower</hi> 
+                  <date>the 15. of May. 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
